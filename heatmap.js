@@ -168,13 +168,13 @@ document.addEventListener('DOMContentLoaded', () => {
         .attr('fill', (d) => {
           let color;
           switch (d) {
-            case 'Wii':
+            case 'blue':
               color = '#E89361';
               break;
-            case 'DS':
+            case 'yellow':
               color = '#CB8F7B';
               break;
-            case 'X360':
+            case 'red':
               color = '#AE8A96';
               break;
             case 'GB':
