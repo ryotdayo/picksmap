@@ -233,7 +233,7 @@ document.addEventListener('DOMContentLoaded', () => {
         
   }
 
-  const url = '../data/heatmap-data.json';
+  const url = 'https://ryotdayo.github.io/picksmap/data/heatmap-data.json';
 
 
   let gameData;
