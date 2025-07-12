@@ -234,17 +234,20 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
 
-  const url = 'https://ryotdayo.github.io/picksmap/data/heatmap-data.json';
-
+ const url = 'https://ryotdayo.github.io/picksmap/data/heatmap-data.json';
 
   let gameData;
-d3.json(url)
-  .then(data => {
-    gameData = data;
-    drawTreeMap();
-  })
-  .catch(error => {
-    console.error('Error loading JSON:', error);
-  });
 
+  d3.json(url).then(
+    (data, error) => {
+      if (error) {
+        console.log(error);
+      } else {
+        gameData = data;
+        // console.log(gameData);
+        drawTreeMap();
+      }
+    }
+  )
 
+});
