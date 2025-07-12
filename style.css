@@ -1,1 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins&display=swap');
 
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: midnightblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: gainsboro;
+  padding: 10px;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+  font-size: 1rem;
+  margin-bottom: 15px;
+}
+
+.container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#tooltip {
+  position: absolute;
+  font-size: 0.8rem;
+  color: gainsboro;
+  width: auto;
+  height: auto;
+  background: midnightblue;
+  padding: 8px;
+  border-radius: 6px;
+}
+
+@media screen and (max-width: 1000px) {
+  .container {
+    transform: scale(0.9);
+  }
+}
+@media screen and (max-width: 900px) {
+  .container {
+    transform: scale(0.8);
+  }
+}
+@media screen and (max-width: 800px) {
+  .container {
+    transform: scale(0.7);
+  }
+}
+@media screen and (max-width: 700px) {
+  .container {
+    transform: scale(0.6);
+  }
+}
+@media screen and (max-width: 600px) {
+  .container {
+    transform: scale(0.5);
+  }
+}
+@media screen and (max-width: 500px) {
+  .container {
+    transform: scale(0.4);
+  }
+}
+@media screen and (max-width: 400px) {
+  .container {
+    transform: scale(0.3);
+  }
+}
