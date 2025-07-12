@@ -65,28 +65,28 @@ document.addEventListener('DOMContentLoaded', () => {
                 case 'Wii':
                   color = '#E89361';
                   break;
-                case 'orange':
+                case 'DS':
                   color = '#CB8F7B';
                   break;
-                case 'green':
+                case 'X360':
                   color = '#AE8A96';
                   break;
-                case 'yellow':
+                case 'GB':
                   color = '#9186B0';
                   break;
-                case 'pink':
+                case 'PS3':
                   color = '#7481CB';
                   break;
-                case 'red':
+                case 'NES':
                   color = '#577DE5';
                   break;
-                case 'white':
+                case 'PS2':
                   color = '#E65757';
                   break;
-                case 'gold':
+                case '3DS':
                   color = '#CC7459';
                   break;
-                case 'black':
+                case 'PS4':
                   color = '#B3915B';
                   break;
                 case 'SNES':
@@ -171,10 +171,10 @@ document.addEventListener('DOMContentLoaded', () => {
             case 'Wii':
               color = '#E89361';
               break;
-            case 'yellow':
+            case 'DS':
               color = '#CB8F7B';
               break;
-            case 'red':
+            case 'X360':
               color = '#AE8A96';
               break;
             case 'GB':
@@ -232,6 +232,7 @@ document.addEventListener('DOMContentLoaded', () => {
         .text((d) => d);            
         
   }
+
 
   const url = 'https://ryotdayo.github.io/picksmap/data/heatmap-data.json';
 
