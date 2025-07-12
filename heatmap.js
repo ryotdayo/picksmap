@@ -237,17 +237,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   let gameData;
+d3.json(url)
+  .then(data => {
+    gameData = data;
+    drawTreeMap();
+  })
+  .catch(error => {
+    console.error('Error loading JSON:', error);
+  });
 
-  d3.json(url).then(
-    (data, error) => {
-      if (error) {
-        console.log(error);
-      } else {
-        gameData = data;
-        // console.log(gameData);
-        drawTreeMap();
-      }
-    }
-  )
 
-});
