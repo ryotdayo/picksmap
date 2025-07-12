@@ -1,5 +1,5 @@
 {
-    "name": "picks heatmap",
+    "name": "Video Game Sales Data Top 100",
     "children": [{
             "name": "2600",
             "children": [{
@@ -11,7 +11,7 @@
         {
             "name": "Wii",
             "children": [{
-                    "name": "Wii uuu",
+                    "name": "Wii Sports",
                     "category": "Wii",
                     "value": "82.53"
                 },
