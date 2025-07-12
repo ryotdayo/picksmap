@@ -62,31 +62,31 @@ document.addEventListener('DOMContentLoaded', () => {
               const category = d.data.category;
               let color;
               switch (category) {
-                case 'Wii':
+                case 'blue':
                   color = '#E89361';
                   break;
-                case 'DS':
+                case 'orange':
                   color = '#CB8F7B';
                   break;
-                case 'X360':
+                case 'green':
                   color = '#AE8A96';
                   break;
-                case 'GB':
+                case 'yellow':
                   color = '#9186B0';
                   break;
-                case 'PS3':
+                case 'pink':
                   color = '#7481CB';
                   break;
-                case 'NES':
+                case 'red':
                   color = '#577DE5';
                   break;
-                case 'PS2':
+                case 'white':
                   color = '#E65757';
                   break;
-                case '3DS':
+                case 'gold':
                   color = '#CC7459';
                   break;
-                case 'PS4':
+                case 'black':
                   color = '#B3915B';
                   break;
                 case 'SNES':
