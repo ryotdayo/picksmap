@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', () => {
               const category = d.data.category;
               let color;
               switch (category) {
-                case 'Wii':
+                case '1':
                   color = '#00ff00';
                   break;
                 case 'DS':
@@ -168,7 +168,7 @@ document.addEventListener('DOMContentLoaded', () => {
         .attr('fill', (d) => {
           let color;
           switch (d) {
-            case 'Wii':
+            case '1':
               color = '#00ff00';
               break;
             case 'DS':
