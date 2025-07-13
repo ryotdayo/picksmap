@@ -121,11 +121,6 @@
                     "name": "Pokemon Diamond/Pokemon Pearl",
                     "category": "DS",
                     "value": "18.25"
-                },
-                {
-                    "name": "Brain Age 2: More Training in Minutes a Day",
-                    "category": "DS",
-                    "value": "15.29"
                 }
             ]
         },
@@ -175,31 +170,6 @@
                     "name": "Call of Duty: Ghosts",
                     "category": "X360",
                     "value": "10.25"
-                },
-                {
-                    "name": "Halo: Reach",
-                    "category": "X360",
-                    "value": "9.86"
-                },
-                {
-                    "name": "Halo 4",
-                    "category": "X360",
-                    "value": "9.71"
-                },
-                {
-                    "name": "Call of Duty 4: Modern Warfare",
-                    "category": "X360",
-                    "value": "9.31"
-                },
-                {
-                    "name": "Minecraft",
-                    "category": "X360",
-                    "value": "9.18"
-                },
-                {
-                    "name": "The Elder Scrolls V: Skyrim",
-                    "category": "X360",
-                    "value": "8.79"
                 }
             ]
         },
@@ -239,16 +209,6 @@
                     "name": "Grand Theft Auto IV",
                     "category": "PS3",
                     "value": "10.5"
-                },
-                {
-                    "name": "Call of Duty: Ghosts",
-                    "category": "PS3",
-                    "value": "9.36"
-                },
-                {
-                    "name": "FIFA Soccer 13",
-                    "category": "PS3",
-                    "value": "8.16"
                 }
             ]
         },
