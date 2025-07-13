@@ -64,17 +64,17 @@
         {
             "name": "GB",
             "children": [{
-                    "name": "Pokemon Red/Pokemon Blue",
+                    "name": "$HOOD",
                     "category": "GB",
                     "value": "31.37"
                 },
                 {
-                    "name": "Tetris",
+                    "name": "$SPOT",
                     "category": "GB",
                     "value": "30.26"
                 },
                 {
-                    "name": "Pokemon Gold/Pokemon Silver",
+                    "name": "$TSLA",
                     "category": "GB",
                     "value": "23.1"
                 },
@@ -87,11 +87,6 @@
                     "name": "Pokémon Yellow: Special Pikachu Edition",
                     "category": "GB",
                     "value": "14.64"
-                },
-                {
-                    "name": "Super Mario Land 2: 6 Golden Coins",
-                    "category": "GB",
-                    "value": "11.18"
                 }
             ]
         },
