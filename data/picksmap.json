@@ -93,28 +93,28 @@
         {
             "name": "DS",
             "children": [{
-                    "name": "New Super Mario Bros.",
+                    "name": "$TSLL",
                     "category": "DS",
                     "value": "29.8"
                 },
                 {
-                    "name": "$--",
+                    "name": "$HIMS",
                     "category": "DS",
                     "value": "24.67"
                 },
                 {
-                    "name": "$--",
+                    "name": "$MSTR",
                     "category": "DS",
                     "value": "23.21"
                 },
                 {
                     "name": "Brain Age: Train Your Brain in Minutes a Day",
-                    "category": "DS",
+                    "category": "$NFLX",
                     "value": "20.15"
                 },
                 {
                     "name": "Pokemon Diamond/Pokemon Pearl",
-                    "category": "DS",
+                    "category": "$FXI",
                     "value": "18.25"
                 }
             ]
