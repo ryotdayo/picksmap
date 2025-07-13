@@ -15,29 +15,29 @@
         {
             "name": "-",
             "children": [{
-                    "name": "$SOXL",
+                    "name": "$aapl",
                     "category": "1",
-                    "value": "0.56"
+                    "value": "0.03"
                 },
                 {
-                    "name": "$TSLL",
+                    "name": "$adbe",
                     "category": "1",
-                    "value": "1.23"
+                    "value": "-1"
                 },
                 {
-                    "name": "$AVGO",
+                    "name": "$AJG",
                     "category": "1",
-                    "value": "1.75"
+                    "value": "0"
                 },
                 {
-                    "name": "$SMCI",
+                    "name": "$avgo",
                     "category": "1",
-                    "value": "4.6"
+                    "value": "0.024"
                 },
                 {
-                    "name": "$TQQQ",
+                    "name": "$cat",
                     "category": "1",
-                    "value": "2.86"
+                    "value": "0.017"
                 }
             ]
         }
