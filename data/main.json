@@ -38,6 +38,16 @@
                     "name": "$cat",
                     "category": "1",
                     "value": "0.017"
+                },
+                {
+                    "name": "$cgc",
+                    "category": "1",
+                    "value": "0"
+                },
+                {
+                    "name": "$cls",
+                    "category": "1",
+                    "value": "0.047"
                 }
             ]
         }
