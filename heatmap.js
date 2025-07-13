@@ -65,7 +65,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 case 'Wii':
                   color = '#00ff00';
                   break;
-                case '2':
+                case 'DS':
                   color = '#CB8F7B';
                   break;
                 case '3':
