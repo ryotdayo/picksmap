@@ -122,29 +122,29 @@
         {
             "name": "X360",
             "children": [{
-                    "name": "$OKLO",
+                    "name": "$NFLX",
                     "category": "X360",
-                    "value": "21.81"
+                    "value": "0.75"
                 },
                 {
-                    "name": "$--",
+                    "name": "$CRWD",
                     "category": "X360",
-                    "value": "16.27"
+                    "value": "0.62"
                 },
                 {
-                    "name": "$--",
+                    "name": "$GLD",
                     "category": "X360",
-                    "value": "14.73"
+                    "value": "0.07"
                 },
                 {
-                    "name": "$--",
+                    "name": "$GEV",
                     "category": "X360",
-                    "value": "14.61"
+                    "value": "2.41"
                 },
                 {
-                    "name": "$--",
+                    "name": "$AJG",
                     "category": "X360",
-                    "value": "13.67"
+                    "value": "0"
                 }
             ]
         },
