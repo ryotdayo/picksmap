@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', () => {
                   color = '#E65757';
                   break;
                 case '3DS':
-                  color = '#CC7459';
+                  color = '#bbbcde';
                   break;
                 case 'PS4':
                   color = '#B3915B';
@@ -190,7 +190,7 @@ document.addEventListener('DOMContentLoaded', () => {
               color = '#E65757';
               break;
             case '3DS':
-              color = '#CC7459';
+              color = '#bbbcde';
               break;
             case 'PS4':
               color = '#B3915B';
