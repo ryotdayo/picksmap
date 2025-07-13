@@ -63,6 +63,11 @@
                     "name": "$dash",
                     "category": "1",
                     "value": "0.012"
+                },
+                {
+                    "name": "$duol",
+                    "category": "1",
+                    "value": "0"
                 }
             ]
         }
