@@ -136,9 +136,8 @@ document.addEventListener('DOMContentLoaded', () => {
             .attr('x', 3)
          .attr('y', (d, i) => 13 + i * 11)
            .style('font-size', 15 + 'px')
-           .style('text-align', center)
-          .style('color', 'white')
-            .style('font-weight', bold);  
+          .style('fill', 'white')
+            .style('font-weight', 'bold');  
 
 
 
