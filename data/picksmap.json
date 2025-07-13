@@ -69,29 +69,29 @@
         {
             "name": "GB",
             "children": [{
-                    "name": "$HOOD",
+                    "name": "$NVDL",
                     "category": "GB",
-                    "value": "31.37"
+                    "value": "6.69"
                 },
                 {
-                    "name": "$SPOT",
+                    "name": "$TSLL",
                     "category": "GB",
-                    "value": "30.26"
+                    "value": "0.56"
                 },
                 {
-                    "name": "$TSLA",
+                    "name": "$GLD",
                     "category": "GB",
-                    "value": "23.1"
+                    "value": "0.07"
                 },
                 {
-                    "name": "$NVDA",
+                    "name": "$META",
                     "category": "GB",
-                    "value": "18.14"
+                    "value": "1.37"
                 },
                 {
-                    "name": "$--",
+                    "name": "$RBLX",
                     "category": "GB",
-                    "value": "14.64"
+                    "value": "3.00"
                 }
             ]
         },
