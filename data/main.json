@@ -126,36 +126,7 @@
                 }
             ]
         },
-        {
-            "name": "N64",
-            "children": [{
-                    "name": "$CLS",
-                    "category": "N64",
-                    "value": "4.72"
-                },
-                {
-                    "name": "$LLY",
-                    "category": "N64",
-                    "value": "0.00"
-                },
-                {
-                    "name": "$NOC",
-                    "category": "N64",
-                    "value": "0.27"
-                },
-                {
-                    "name": "$RTX",
-                    "category": "N64",
-                    "value": "0.83"
-                },
-                {
-                    "name": "$TQQQ",
-                    "category": "N64",
-                    "value": "2.86"
-                }
-                
-            ]
-        },
+       
         {
             "name": "PS",
             "children": [{
