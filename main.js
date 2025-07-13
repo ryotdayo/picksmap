@@ -234,7 +234,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
 
- const url = 'https://ryotdayo.github.io/picksmap/data/picksmap.json';
+ const url = 'https://ryotdayo.github.io/picksmap/data/main.json';
 
   let gameData;
 
