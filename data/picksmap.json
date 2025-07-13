@@ -12,27 +12,27 @@
             "name": "Wii",
             "children": [{
                     "name": "$SOXL",
-                    "category": "",
+                    "category": "Wii",
                     "value": "82.53"
                 },
                 {
                     "name": "$TSLL",
-                    "category": "",
+                    "category": "Wii",
                     "value": "35.52"
                 },
                 {
                     "name": "$AVGO",
-                    "category": "",
+                    "category": "Wii",
                     "value": "32.77"
                 },
                 {
                     "name": "$SMCI",
-                    "category": "",
+                    "category": "Wii",
                     "value": "28.92"
                 },
                 {
                     "name": "$TQQQ",
-                    "category": "",
+                    "category": "Wii",
                     "value": "28.32"
                 }
             ]
@@ -40,22 +40,22 @@
         {
             "name": "NES",
             "children": [{
-                    "name": "Super Mario Bros.",
+                    "name": "$--",
                     "category": "NES",
                     "value": "40.24"
                 },
                 {
-                    "name": "Duck Hunt",
+                    "name": "$--",
                     "category": "NES",
                     "value": "28.31"
                 },
                 {
-                    "name": "Super Mario Bros. 3",
+                    "name": "$--",
                     "category": "NES",
                     "value": "17.28"
                 },
                 {
-                    "name": "Super Mario Bros. 2",
+                    "name": "$--",
                     "category": "NES",
                     "value": "7.46"
                 }
@@ -127,22 +127,22 @@
                     "value": "21.81"
                 },
                 {
-                    "name": "Grand Theft Auto V",
+                    "name": "$--",
                     "category": "X360",
                     "value": "16.27"
                 },
                 {
-                    "name": "Call of Duty: Modern Warfare 3",
+                    "name": "$--",
                     "category": "X360",
                     "value": "14.73"
                 },
                 {
-                    "name": "Call of Duty: Black Ops",
+                    "name": "$--",
                     "category": "X360",
                     "value": "14.61"
                 },
                 {
-                    "name": "Call of Duty: Black Ops II",
+                    "name": "$--",
                     "category": "X360",
                     "value": "13.67"
                 }
@@ -151,7 +151,7 @@
         {
             "name": "PS3",
             "children": [{
-                    "name": "Grand Theft Auto V",
+                    "name": "$--",
                     "category": "PS3",
                     "value": "21.04"
                 },
