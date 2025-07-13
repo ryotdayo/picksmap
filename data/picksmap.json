@@ -296,22 +296,22 @@
         {
             "name": "3DS",
             "children": [{
-                    "name": "Pokemon X/Pokemon Y",
+                    "name": "$RKLB",
                     "category": "3DS",
                     "value": "14.6"
                 },
                 {
-                    "name": "Mario Kart 7",
+                    "name": "$PLTR",
                     "category": "3DS",
                     "value": "12.66"
                 },
                 {
-                    "name": "Pokemon Omega Ruby/Pokemon Alpha Sapphire",
+                    "name": "$T",
                     "category": "3DS",
                     "value": "11.68"
                 },
                 {
-                    "name": "Super Mario 3D Land",
+                    "name": "$WM",
                     "category": "3DS",
                     "value": "10.81"
                 },
