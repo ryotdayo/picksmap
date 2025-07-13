@@ -13,27 +13,27 @@
             "children": [{
                     "name": "$SOXL",
                     "category": "Wii",
-                    "value": "82.53"
+                    "value": "5.24"
                 },
                 {
                     "name": "$TSLL",
                     "category": "Wii",
-                    "value": "35.52"
+                    "value": "1.23"
                 },
                 {
                     "name": "$AVGO",
                     "category": "Wii",
-                    "value": "32.77"
+                    "value": "1.75"
                 },
                 {
                     "name": "$SMCI",
                     "category": "Wii",
-                    "value": "28.92"
+                    "value": "4.6"
                 },
                 {
                     "name": "$TQQQ",
                     "category": "Wii",
-                    "value": "28.32"
+                    "value": "6.32"
                 }
             ]
         },
