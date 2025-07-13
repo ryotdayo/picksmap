@@ -127,6 +127,13 @@ document.addEventListener('DOMContentLoaded', () => {
             .on('mouseover', handleMouseover)
             .on('mouseout', handleMouseout);
 
+
+    //追加
+    const paddingLeft = 6;  // 左に6px
+const paddingTop = 10;  // 上に10px（最初の行の高さ）
+
+
+    
     section.append('text')
             .selectAll('tspan')
             .data((d) => d.data.name.split(/(?=[A-Z][^A-Z])/g))
