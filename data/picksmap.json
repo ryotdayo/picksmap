@@ -248,14 +248,29 @@
         {
             "name": "GBA",
             "children": [{
-                    "name": "Pokemon Ruby/Pokemon Sapphire",
+                    "name": "$QBTS",
                     "category": "GBA",
-                    "value": "15.85"
+                    "value": "5.90"
                 },
                 {
-                    "name": "Pokemon FireRed/Pokemon LeafGreen",
+                    "name": "$SMCI",
                     "category": "GBA",
-                    "value": "10.49"
+                    "value": "3.13"
+                },
+                {
+                    "name": "$NFLX",
+                    "category": "GBA",
+                    "value": "0.75"
+                },
+                {
+                    "name": "$CRWD",
+                    "category": "GBA",
+                    "value": "0.62"
+                },
+                {
+                    "name": "$GLD",
+                    "category": "GBA",
+                    "value": "0.07"
                 }
             ]
         },
