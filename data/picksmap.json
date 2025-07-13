@@ -257,29 +257,29 @@
         {
             "name": "PS4",
             "children": [{
-                    "name": "Call of Duty: Black Ops 3",
+                    "name": "$VWO",
                     "category": "PS4",
-                    "value": "14.63"
+                    "value": "0.38"
                 },
                 {
-                    "name": "Grand Theft Auto V",
+                    "name": "$VEA",
                     "category": "PS4",
-                    "value": "12.61"
+                    "value": "0.37"
                 },
                 {
-                    "name": "FIFA 16",
+                    "name": "$VDE",
                     "category": "PS4",
-                    "value": "8.57"
+                    "value": "0.69"
                 },
                 {
-                    "name": "Star Wars Battlefront (2015)",
+                    "name": "$PANW",
                     "category": "PS4",
-                    "value": "7.98"
+                    "value": "0.05"
                 },
                 {
-                    "name": "Call of Duty: Advanced Warfare",
+                    "name": "$CAT",
                     "category": "PS4",
-                    "value": "7.66"
+                    "value": "1.74"
                 },
                 {
                     "name": "FIFA 17",
