@@ -31,7 +31,7 @@
                     "value": "28.92"
                 },
                 {
-                    "name": "$--",
+                    "name": "$TQQQ",
                     "category": "Wii",
                     "value": "28.32"
                 }
@@ -126,16 +126,6 @@
                     "name": "Brain Age 2: More Training in Minutes a Day",
                     "category": "DS",
                     "value": "15.29"
-                },
-                {
-                    "name": "Pokemon Black/Pokemon White",
-                    "category": "DS",
-                    "value": "15.14"
-                },
-                {
-                    "name": "Animal Crossing: Wild World",
-                    "category": "DS",
-                    "value": "12.13"
                 }
             ]
         },
