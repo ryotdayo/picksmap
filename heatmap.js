@@ -234,7 +234,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
 
- const url = 'https://cdn.freecodecamp.org/testable-projects-fcc/data/tree_map/video-game-sales-data.json';
+ const url = 'https://ryotdayo.github.io/picksmap/data/picksmap.json';
 
   let gameData;
 
