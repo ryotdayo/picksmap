@@ -110,14 +110,14 @@
                     "value": "0.022"
                 },
                 {
-                    "name": "DUOL",
+                    "name": "NOC",
                     "category": "1",
-                    "value": "0"
+                    "value": "0.003"
                 },
                 {
-                    "name": "DUOL",
+                    "name": "NVDA",
                     "category": "1",
-                    "value": "0"
+                    "value": "0.059"
                 }
             ]
         }
