@@ -169,7 +169,7 @@ document.addEventListener('DOMContentLoaded', () => {
           let color;
           switch (d) {
             case 'Wii':
-              color = '#E89361';
+              color = '#00ff00';
               break;
             case 'DS':
               color = '#CB8F7B';
