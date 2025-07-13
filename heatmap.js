@@ -66,10 +66,10 @@ document.addEventListener('DOMContentLoaded', () => {
                   color = '#00ff00';
                   break;
                 case 'DS':
-                  color = '#CB8F7B';
+                  color = '#e6fbf3';
                   break;
                 case 'X360':
-                  color = '#AE8A96';
+                  color = '#ebe5e5';
                   break;
                 case 'GB':
                   color = '#9186B0';
@@ -172,10 +172,10 @@ document.addEventListener('DOMContentLoaded', () => {
               color = '#00ff00';
               break;
             case 'DS':
-              color = '#CB8F7B';
+              color = '#e6fbf3';
               break;
             case 'X360':
-              color = '#AE8A96';
+              color = '#ebe5e5';
               break;
             case 'GB':
               color = '#9186B0';
