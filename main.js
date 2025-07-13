@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
 
   const width = 1000;
-  const height = 700;
+  const height = 650;
 
   const treeMap = d3.select('#tree-map')
                     .append('svg')
@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         .sort((a, b) => b.value - a.value);
 
     const createTreeMap = d3.treemap()
-                            .size([1000, 700]);
+                            .size([1000, 650]);
 
     createTreeMap(hierarchy);
 
