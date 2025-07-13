@@ -34,31 +34,6 @@
                     "name": "$--",
                     "category": "Wii",
                     "value": "28.32"
-                },
-                {
-                    "name": "Wii Fit",
-                    "category": "Wii",
-                    "value": "22.7"
-                },
-                {
-                    "name": "Wii Fit Plus",
-                    "category": "Wii",
-                    "value": "21.79"
-                },
-                {
-                    "name": "Super Smash Bros. Brawl",
-                    "category": "Wii",
-                    "value": "12.84"
-                },
-                {
-                    "name": "Super Mario Galaxy",
-                    "category": "Wii",
-                    "value": "11.35"
-                },
-                {
-                    "name": "Just Dance 3",
-                    "category": "Wii",
-                    "value": "10.12"
                 }
             ]
         },
