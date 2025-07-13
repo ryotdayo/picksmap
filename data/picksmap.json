@@ -16,12 +16,12 @@
                     "value": "82.53"
                 },
                 {
-                    "name": "Mario Kart Wii",
+                    "name": "$TSLL",
                     "category": "Wii",
                     "value": "35.52"
                 },
                 {
-                    "name": "Wii Sports Resort",
+                    "name": "$AVGO",
                     "category": "Wii",
                     "value": "32.77"
                 },
@@ -217,7 +217,7 @@
         {
             "name": "X360",
             "children": [{
-                    "name": "Kinect Adventures!",
+                    "name": "$OKLO",
                     "category": "X360",
                     "value": "21.81"
                 },
