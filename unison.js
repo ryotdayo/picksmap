@@ -144,9 +144,9 @@ document.addEventListener('DOMContentLoaded', () => {
                       .style('padding-left', 60 + 'px')
                       .style('padding-top', 10 + 'px');
 
-    const rectSize = 20;                  
+    const rectSize = 0;                  
     const rectHSpacing = 110;   
-    const rectVSpacing = 20;              
+    const rectVSpacing = 0;              
     const elementsPerRow = Math.floor(width / rectHSpacing);
 
     const legendItem = legend.selectAll('g')
