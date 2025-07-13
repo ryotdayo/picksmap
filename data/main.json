@@ -118,6 +118,61 @@
                     "name": "NVDA",
                     "category": "1",
                     "value": "0.059"
+                },
+                {
+                    "name": "OKLO",
+                    "category": "1",
+                    "value": "0.152"
+                },
+                {
+                    "name": "PANW",
+                    "category": "1",
+                    "value": "0.000"
+                },
+                {
+                    "name": "PINS",
+                    "category": "1",
+                    "value": "0.022"
+                },
+                {
+                    "name": "PLTR",
+                    "category": "1",
+                    "value": "0.067"
+                },
+                {
+                    "name": "QBTS",
+                    "category": "1",
+                    "value": "0.059"
+                },
+                {
+                    "name": "",
+                    "category": "1",
+                    "value": ""
+                },
+                {
+                    "name": "",
+                    "category": "1",
+                    "value": ""
+                },
+                {
+                    "name": "",
+                    "category": "1",
+                    "value": ""
+                },
+                {
+                    "name": "",
+                    "category": "1",
+                    "value": ""
+                },
+                {
+                    "name": "",
+                    "category": "1",
+                    "value": ""
+                },
+                {
+                    "name": "",
+                    "category": "1",
+                    "value": ""
                 }
             ]
         }
