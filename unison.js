@@ -63,10 +63,10 @@ document.addEventListener('DOMContentLoaded', () => {
               let color;
               switch (category) {
                 case '1':
-                  color = '#00ff00';
+                  color = '#bb5730';
                   break;
-                case 'DS':
-                  color = '#e6fbf3';
+                case '2':
+                  color = '#9f934b';
                   break;
                 case 'X360':
                   color = '#ebe5e5';
@@ -180,10 +180,10 @@ const paddingTop = 10;  // 上に10px（最初の行の高さ）
           let color;
           switch (d) {
             case '1':
-              color = '#00ff00';
+              color = '#bb5730';
               break;
-            case 'DS':
-              color = '#e6fbf3';
+            case '2':
+              color = '#9f934b';
               break;
             case 'X360':
               color = '#ebe5e5';
