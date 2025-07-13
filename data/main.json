@@ -66,35 +66,7 @@
                 }
             ]
         },
-        {
-            "name": "GB",
-            "children": [{
-                    "name": "$NVDL",
-                    "category": "GB",
-                    "value": "6.69"
-                },
-                {
-                    "name": "$TSLL",
-                    "category": "GB",
-                    "value": "0.56"
-                },
-                {
-                    "name": "$GLD",
-                    "category": "GB",
-                    "value": "0.07"
-                },
-                {
-                    "name": "$META",
-                    "category": "GB",
-                    "value": "1.37"
-                },
-                {
-                    "name": "$RBLX",
-                    "category": "GB",
-                    "value": "3.00"
-                }
-            ]
-        },
+       
         {
             "name": "DS",
             "children": [{
