@@ -127,32 +127,17 @@ document.addEventListener('DOMContentLoaded', () => {
             .on('mouseover', handleMouseover)
             .on('mouseout', handleMouseout);
 
-    //section.append('text')
-        //    .selectAll('tspan')
-          //  .data((d) => d.data.name.split(/(?=[A-Z][^A-Z])/g))
-        //    .enter()
-       //     .append('tspan')
-       //     .text((d) => d)
-       //     .attr('x', 3)
-        //    .attr('y', (d, i) => 13 + i * 11)
-       //     .style('font-size', 13 + 'px');  
-
-
     section.append('text')
-    .attr('text-anchor', 'middle') // 中央寄せ
-    .attr('x', (d) => d.x1 - (d.x1 - d.x0) / 2) // ノードの中央に配置
-    .attr('y', (d) => d.y0 + 13) // 最初の行のy座標
-    .selectAll('tspan')
-    .data((d) => d.data.name.split(/(?=[A-Z][^A-Z])/g))
-    .enter()
-    .append('tspan')
-    .text((d) => d)
-    .attr('x', 0) // 親textのxを基準に中央にする
-    .attr('dy', (d, i) => i === 0 ? 0 : '1.1em') // 各行の間隔
-    .style('font-size', '13px');
+            .selectAll('tspan')
+            .data((d) => d.data.name.split(/(?=[A-Z][^A-Z])/g))
+            .enter()
+            .append('tspan')
+            .text((d) => d)
+            .attr('x', 3)
+         .attr('y', (d, i) => 13 + i * 11)
+           .style('font-size', 13 + 'px');  
 
 
-    //上記参考
 
     const legend = d3.select('#legend')
                       .append('svg')
