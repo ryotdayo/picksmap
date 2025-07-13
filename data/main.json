@@ -57,12 +57,62 @@
                 {
                     "name": "CRWD",
                     "category": "1",
-                    "value": "0.006"
+                    "value": "0.012"
                 },
                 {
                     "name": "DASH",
                     "category": "1",
                     "value": "0.012"
+                },
+                {
+                    "name": "DUOL",
+                    "category": "1",
+                    "value": "0"
+                },
+                {
+                    "name": "GEV",
+                    "category": "1",
+                    "value": "0.024"
+                },
+                {
+                    "name": "HIMS",
+                    "category": "1",
+                    "value": "0.009"
+                },
+                {
+                    "name": "HOOD",
+                    "category": "1",
+                    "value": "0.069"
+                },
+                {
+                    "name": "IONQ",
+                    "category": "1",
+                    "value": "0.050"
+                },
+                {
+                    "name": "LLY",
+                    "category": "1",
+                    "value": "0"
+                },
+                {
+                    "name": "META",
+                    "category": "1",
+                    "value": "0.014"
+                },
+                {
+                    "name": "MSTR",
+                    "category": "1",
+                    "value": "0.017"
+                },
+                {
+                    "name": "NFLX",
+                    "category": "1",
+                    "value": "0.022"
+                },
+                {
+                    "name": "DUOL",
+                    "category": "1",
+                    "value": "0"
                 },
                 {
                     "name": "DUOL",
