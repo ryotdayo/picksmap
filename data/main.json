@@ -2,11 +2,15 @@
     "name": "Picks Challenge Vol4 Tree Map",
     "children": [{
             "name": "2600",
-            "children": [{
+            "children": [
+                
+                
+                {
                 "name": "BTC",
                 "category": "2600",
-                "value": "7.81"
-            }]
+                "value": "0"
+            }
+            ]
         },
         {
             "name": "Wii",
