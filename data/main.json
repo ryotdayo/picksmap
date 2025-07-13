@@ -31,12 +31,12 @@
                 },
                 {
                     "name": "$SMCI",
-                    "category": "Wii",
+                    "category": "1",
                     "value": "4.6"
                 },
                 {
                     "name": "$TQQQ",
-                    "category": "Wii",
+                    "category": "1",
                     "value": "2.86"
                 }
             ]
