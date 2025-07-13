@@ -15,57 +15,57 @@
         {
             "name": "-",
             "children": [{
-                    "name": "$aapl",
+                    "name": "AAPL",
                     "category": "1",
                     "value": "0.03"
                 },
                 {
-                    "name": "$adbe",
+                    "name": "ADBE",
                     "category": "1",
                     "value": "0"
                 },
                 {
-                    "name": "$AJG",
+                    "name": "AJG",
                     "category": "1",
                     "value": "0"
                 },
                 {
-                    "name": "$avgo",
+                    "name": "AVGO",
                     "category": "1",
                     "value": "0.024"
                 },
                 {
-                    "name": "$cat",
+                    "name": "CAT",
                     "category": "1",
                     "value": "0.017"
                 },
                 {
-                    "name": "$cgc",
+                    "name": "CGC",
                     "category": "1",
                     "value": "0"
                 },
                 {
-                    "name": "$cls",
+                    "name": "CLS",
                     "category": "1",
                     "value": "0.047"
                 },
                 {
-                    "name": "$cme",
+                    "name": "CME",
                     "category": "1",
                     "value": "0"
                 },
                 {
-                    "name": "$crwd",
+                    "name": "CRWD",
                     "category": "1",
                     "value": "0.006"
                 },
                 {
-                    "name": "$dash",
+                    "name": "DASH",
                     "category": "1",
                     "value": "0.012"
                 },
                 {
-                    "name": "$duol",
+                    "name": "DUOL",
                     "category": "1",
                     "value": "0"
                 }
