@@ -62,13 +62,13 @@ document.addEventListener('DOMContentLoaded', () => {
               const category = d.data.category;
               let color;
               switch (category) {
-                case 'Wii':
+                case '1':
                   color = '#00ff00';
                   break;
-                case 'DS':
+                case '2':
                   color = '#CB8F7B';
                   break;
-                case 'X360':
+                case '3':
                   color = '#AE8A96';
                   break;
                 case 'GB':
