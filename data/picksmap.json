@@ -174,16 +174,6 @@
                     "name": "$RBLX",
                     "category": "PS3",
                     "value": "3.00"
-                },
-                {
-                    "name": "Call of Duty: Modern Warfare 2",
-                    "category": "PS3",
-                    "value": "10.6"
-                },
-                {
-                    "name": "Grand Theft Auto IV",
-                    "category": "PS3",
-                    "value": "10.5"
                 }
             ]
         },
@@ -224,24 +214,29 @@
         {
             "name": "SNES",
             "children": [{
-                    "name": "Super Mario World",
+                    "name": "$EEM",
                     "category": "SNES",
-                    "value": "20.61"
+                    "value": "0.39"
                 },
                 {
-                    "name": "Super Mario All-Stars",
+                    "name": "$UNH",
                     "category": "SNES",
-                    "value": "10.55"
+                    "value": "0"
                 },
                 {
-                    "name": "Donkey Kong Country",
+                    "name": "$EPI",
                     "category": "SNES",
-                    "value": "9.3"
+                    "value": "0.11"
                 },
                 {
-                    "name": "Super Mario Kart",
+                    "name": "$YINN",
                     "category": "SNES",
-                    "value": "8.76"
+                    "value": "0.93"
+                },
+                  {
+                    "name": "$SPXS",
+                    "category": "SNES",
+                    "value": "0"
                 }
             ]
         },
