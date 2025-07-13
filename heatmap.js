@@ -135,7 +135,7 @@ document.addEventListener('DOMContentLoaded', () => {
             .text((d) => d)
             .attr('x', 3)
             .attr('y', (d, i) => 13 + i * 11)
-            .style('font-size', 20 + 'px');  
+            .style('font-size', 13 + 'px');  
 
     const legend = d3.select('#legend')
                       .append('svg')
