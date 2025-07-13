@@ -190,34 +190,34 @@
         {
             "name": "PS2",
             "children": [{
-                    "name": "Grand Theft Auto: San Andreas",
+                    "name": "$MSTR",
                     "category": "PS2",
-                    "value": "20.81"
+                    "value": "0.86"
                 },
                 {
-                    "name": "Grand Theft Auto: Vice City",
+                    "name": "$PLTR",
                     "category": "PS2",
-                    "value": "16.15"
+                    "value": "0"
                 },
                 {
-                    "name": "Gran Turismo 3: A-Spec",
+                    "name": "$OKLO",
                     "category": "PS2",
-                    "value": "14.98"
+                    "value": "7.62"
                 },
                 {
-                    "name": "Grand Theft Auto III",
+                    "name": "$RGTI",
                     "category": "PS2",
-                    "value": "13.1"
+                    "value": "1.11"
                 },
                 {
-                    "name": "Gran Turismo 4",
+                    "name": "SPOT",
                     "category": "PS2",
-                    "value": "11.66"
+                    "value": "0.82"
                 },
                 {
-                    "name": "Final Fantasy X",
+                    "name": "$CGC",
                     "category": "PS2",
-                    "value": "8.05"
+                    "value": "0"
                 }
             ]
         },
