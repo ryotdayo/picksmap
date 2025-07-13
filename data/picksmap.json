@@ -298,27 +298,27 @@
             "children": [{
                     "name": "$RKLB",
                     "category": "3DS",
-                    "value": "14.6"
+                    "value": "4.68"
                 },
                 {
                     "name": "$PLTR",
                     "category": "3DS",
-                    "value": "12.66"
+                    "value": "0.95"
                 },
                 {
                     "name": "$T",
                     "category": "3DS",
-                    "value": "11.68"
+                    "value": "0"
                 },
                 {
                     "name": "$WM",
                     "category": "3DS",
-                    "value": "10.81"
+                    "value": "0"
                 },
                 {
-                    "name": "New Super Mario Bros. 2",
+                    "name": "$IONQ",
                     "category": "3DS",
-                    "value": "9.9"
+                    "value": "2.49"
                 }
             ]
         },
