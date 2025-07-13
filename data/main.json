@@ -1,0 +1,427 @@
+{
+    "name": "Picks Challenge Vol4 Tree Map",
+    "children": [{
+            "name": "2600",
+            "children": [{
+                "name": "BTC",
+                "category": "2600",
+                "value": "7.81"
+            }]
+        },
+        {
+            "name": "Wii",
+            "children": [{
+                    "name": "$SOXL",
+                    "category": "Wii",
+                    "value": "0.56"
+                },
+                {
+                    "name": "$TSLL",
+                    "category": "Wii",
+                    "value": "1.23"
+                },
+                {
+                    "name": "$AVGO",
+                    "category": "Wii",
+                    "value": "1.75"
+                },
+                {
+                    "name": "$SMCI",
+                    "category": "Wii",
+                    "value": "4.6"
+                },
+                {
+                    "name": "$TQQQ",
+                    "category": "Wii",
+                    "value": "2.86"
+                }
+            ]
+        },
+        {
+            "name": "NES",
+            "children": [{
+                    "name": "$VRSN",
+                    "category": "NES",
+                    "value": "0.00"
+                },
+                {
+                    "name": "$TQQQ",
+                    "category": "NES",
+                    "value": "2.86"
+                },
+                {
+                    "name": "$CME",
+                    "category": "NES",
+                    "value": "0.00"
+                },
+                {
+                    "name": "$PLTR",
+                    "category": "NES",
+                    "value": "0.95"
+                },
+                {
+                    "name": "$QUBT",
+                    "category": "NES",
+                    "value": "8.10"
+                }
+            ]
+        },
+        {
+            "name": "GB",
+            "children": [{
+                    "name": "$NVDL",
+                    "category": "GB",
+                    "value": "6.69"
+                },
+                {
+                    "name": "$TSLL",
+                    "category": "GB",
+                    "value": "0.56"
+                },
+                {
+                    "name": "$GLD",
+                    "category": "GB",
+                    "value": "0.07"
+                },
+                {
+                    "name": "$META",
+                    "category": "GB",
+                    "value": "1.37"
+                },
+                {
+                    "name": "$RBLX",
+                    "category": "GB",
+                    "value": "3.00"
+                }
+            ]
+        },
+        {
+            "name": "DS",
+            "children": [{
+                    "name": "$TSLL",
+                    "category": "DS",
+                    "value": "0.56"
+                },
+                {
+                    "name": "$HIMS",
+                    "category": "DS",
+                    "value": "0.85"
+                },
+                {
+                    "name": "$MSTR",
+                    "category": "DS",
+                    "value": "0.86"
+                },
+                {
+                    "name": "$NFLX",
+                    "category": "DS",
+                    "value": "0.75"
+                },
+                {
+                    "name": "$FXI",
+                    "category": "DS",
+                    "value": "0.31"
+                }
+            ]
+        },
+        {
+            "name": "X360",
+            "children": [{
+                    "name": "$NFLX",
+                    "category": "X360",
+                    "value": "0.75"
+                },
+                {
+                    "name": "$CRWD",
+                    "category": "X360",
+                    "value": "0.62"
+                },
+                {
+                    "name": "$GLD",
+                    "category": "X360",
+                    "value": "0.07"
+                },
+                {
+                    "name": "$GEV",
+                    "category": "X360",
+                    "value": "2.41"
+                },
+                {
+                    "name": "$AJG",
+                    "category": "X360",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "name": "PS3",
+            "children": [{
+                    "name": "$RIOT",
+                    "category": "PS3",
+                    "value": "3.36"
+                },
+                {
+                    "name": "$VWO",
+                    "category": "PS3",
+                    "value": "0.38"
+                },
+                {
+                    "name": "$DUOL",
+                    "category": "PS3",
+                    "value": "0"
+                },
+                {
+                    "name": "$PLTR",
+                    "category": "PS3",
+                    "value": "0.95"
+                },
+                {
+                    "name": "$RBLX",
+                    "category": "PS3",
+                    "value": "3.00"
+                }
+            ]
+        },
+        {
+            "name": "PS2",
+            "children": [{
+                    "name": "$MSTR",
+                    "category": "PS2",
+                    "value": "0.86"
+                },
+                {
+                    "name": "$PLTR",
+                    "category": "PS2",
+                    "value": "0"
+                },
+                {
+                    "name": "$OKLO",
+                    "category": "PS2",
+                    "value": "7.62"
+                },
+                {
+                    "name": "$RGTI",
+                    "category": "PS2",
+                    "value": "1.11"
+                },
+                {
+                    "name": "SPOT",
+                    "category": "PS2",
+                    "value": "0.82"
+                },
+                {
+                    "name": "$CGC",
+                    "category": "PS2",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "name": "SNES",
+            "children": [{
+                    "name": "$EEM",
+                    "category": "SNES",
+                    "value": "0.39"
+                },
+                {
+                    "name": "$UNH",
+                    "category": "SNES",
+                    "value": "0"
+                },
+                {
+                    "name": "$EPI",
+                    "category": "SNES",
+                    "value": "0.11"
+                },
+                {
+                    "name": "$YINN",
+                    "category": "SNES",
+                    "value": "0.93"
+                },
+                  {
+                    "name": "$SPXS",
+                    "category": "SNES",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "name": "GBA",
+            "children": [{
+                    "name": "$QBTS",
+                    "category": "GBA",
+                    "value": "5.90"
+                },
+                {
+                    "name": "$SMCI",
+                    "category": "GBA",
+                    "value": "3.13"
+                },
+                {
+                    "name": "$NFLX",
+                    "category": "GBA",
+                    "value": "0.75"
+                },
+                {
+                    "name": "$CRWD",
+                    "category": "GBA",
+                    "value": "0.62"
+                },
+                {
+                    "name": "$GLD",
+                    "category": "GBA",
+                    "value": "0.07"
+                }
+            ]
+        },
+        {
+            "name": "PS4",
+            "children": [{
+                    "name": "$VWO",
+                    "category": "PS4",
+                    "value": "0.38"
+                },
+                {
+                    "name": "$VEA",
+                    "category": "PS4",
+                    "value": "0.37"
+                },
+                {
+                    "name": "$VDE",
+                    "category": "PS4",
+                    "value": "0.69"
+                },
+                {
+                    "name": "$PANW",
+                    "category": "PS4",
+                    "value": "0.05"
+                },
+                {
+                    "name": "$CAT",
+                    "category": "PS4",
+                    "value": "1.74"
+                }
+            ]
+        },
+        {
+            "name": "3DS",
+            "children": [{
+                    "name": "$RKLB",
+                    "category": "3DS",
+                    "value": "4.68"
+                },
+                {
+                    "name": "$PLTR",
+                    "category": "3DS",
+                    "value": "0.95"
+                },
+                {
+                    "name": "$T",
+                    "category": "3DS",
+                    "value": "0"
+                },
+                {
+                    "name": "$WM",
+                    "category": "3DS",
+                    "value": "0"
+                },
+                {
+                    "name": "$IONQ",
+                    "category": "3DS",
+                    "value": "2.49"
+                }
+            ]
+        },
+        {
+            "name": "N64",
+            "children": [{
+                    "name": "$CLS",
+                    "category": "N64",
+                    "value": "4.72"
+                },
+                {
+                    "name": "$LLY",
+                    "category": "N64",
+                    "value": "0.00"
+                },
+                {
+                    "name": "$NOC",
+                    "category": "N64",
+                    "value": "0.27"
+                },
+                {
+                    "name": "$RTX",
+                    "category": "N64",
+                    "value": "0.83"
+                },
+                {
+                    "name": "$TQQQ",
+                    "category": "N64",
+                    "value": "2.86"
+                }
+                
+            ]
+        },
+        {
+            "name": "PS",
+            "children": [{
+                    "name": "$PLTR",
+                    "category": "PS",
+                    "value": "0.95"
+                },
+                {
+                    "name": "$TSLA",
+                    "category": "PS",
+                    "value": "0.65"
+                },
+                {
+                    "name": "$IONQ",
+                    "category": "PS",
+                    "value": "2.49"
+                },
+                {
+                    "name": "$BKCH",
+                    "category": "PS",
+                    "value": "3.30"
+                },
+                {
+                    "name": "$BOTZ",
+                    "category": "PS",
+                    "value": "0.66"
+                }
+            ]
+        },
+        {
+            "name": "XB",
+            "children": [{
+                "name": "Halo 2",
+                "category": "XB",
+                "value": "8.49"
+            }]
+        },
+        {
+            "name": "PC",
+            "children": [{
+                "name": "The Sims 3",
+                "category": "PC",
+                "value": "8.01"
+            }]
+        },
+        {
+            "name": "PSP",
+            "children": [{
+                "name": "Grand Theft Auto: Liberty City Stories",
+                "category": "PSP",
+                "value": "7.69"
+            }]
+        },
+        {
+            "name": "XOne",
+            "children": [{
+                "name": "Call of Duty: Black Ops 3",
+                "category": "XOne",
+                "value": "7.39"
+            }]
+        }
+    ]
+}
