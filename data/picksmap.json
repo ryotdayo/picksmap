@@ -350,29 +350,29 @@
         {
             "name": "PS",
             "children": [{
-                    "name": "Gran Turismo",
+                    "name": "$PLTR",
                     "category": "PS",
-                    "value": "10.95"
+                    "value": "0.95"
                 },
                 {
-                    "name": "Final Fantasy VII",
+                    "name": "$TSLA",
                     "category": "PS",
-                    "value": "9.72"
+                    "value": "0.65"
                 },
                 {
-                    "name": "Gran Turismo 2",
+                    "name": "$IONQ",
                     "category": "PS",
-                    "value": "9.49"
+                    "value": "2.49"
                 },
                 {
-                    "name": "Final Fantasy VIII",
+                    "name": "$BKCH",
                     "category": "PS",
-                    "value": "7.86"
+                    "value": "3.30"
                 },
                 {
-                    "name": "Crash Bandicoot 2: Cortex Strikes Back",
+                    "name": "$BOTZ",
                     "category": "PS",
-                    "value": "7.58"
+                    "value": "0.66"
                 }
             ]
         },
