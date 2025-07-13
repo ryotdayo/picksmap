@@ -48,6 +48,16 @@
                     "name": "$cls",
                     "category": "1",
                     "value": "0.047"
+                },
+                {
+                    "name": "$cme",
+                    "category": "1",
+                    "value": "0"
+                },
+                {
+                    "name": "$crwd",
+                    "category": "1",
+                    "value": "0.006"
                 }
             ]
         }
