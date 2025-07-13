@@ -13,7 +13,7 @@
             "children": [{
                     "name": "$SOXL",
                     "category": "Wii",
-                    "value": "5.24"
+                    "value": "0.56"
                 },
                 {
                     "name": "$TSLL",
@@ -33,7 +33,7 @@
                 {
                     "name": "$TQQQ",
                     "category": "Wii",
-                    "value": "6.32"
+                    "value": "2.86"
                 }
             ]
         },
@@ -95,27 +95,27 @@
             "children": [{
                     "name": "$TSLL",
                     "category": "DS",
-                    "value": "29.8"
+                    "value": "0.56"
                 },
                 {
                     "name": "$HIMS",
                     "category": "DS",
-                    "value": "24.67"
+                    "value": "0.85"
                 },
                 {
                     "name": "$MSTR",
                     "category": "DS",
-                    "value": "23.21"
+                    "value": "0.86"
                 },
                 {
                     "name": "$NFLX",
                     "category": "DS",
-                    "value": "20.15"
+                    "value": "0.75"
                 },
                 {
                     "name": "$FXI",
                     "category": "DS",
-                    "value": "18.25"
+                    "value": "0.31"
                 }
             ]
         },
