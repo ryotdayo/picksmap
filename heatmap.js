@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 case 'DS':
                   color = '#CB8F7B';
                   break;
-                case '3':
+                case 'X360':
                   color = '#AE8A96';
                   break;
                 case 'GB':
