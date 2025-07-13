@@ -173,6 +173,71 @@
                     "name": "RKLB",
                     "category": "1",
                     "value": "0.047"
+                },
+                {
+                    "name": "RKT",
+                    "category": "1",
+                    "value": "0.007"
+                },
+                {
+                    "name": "RTX",
+                    "category": "1",
+                    "value": "0.008"
+                },
+                {
+                    "name": "SMCI",
+                    "category": "1",
+                    "value": "0.063"
+                },
+                {
+                    "name": "SPOT",
+                    "category": "1",
+                    "value": "0.008"
+                },
+                {
+                    "name": "T",
+                    "category": "1",
+                    "value": "0.000"
+                },
+                {
+                    "name": "",
+                    "category": "1",
+                    "value": ""
+                },
+                {
+                    "name": "",
+                    "category": "1",
+                    "value": ""
+                },
+                {
+                    "name": "",
+                    "category": "1",
+                    "value": ""
+                },
+                {
+                    "name": "",
+                    "category": "1",
+                    "value": ""
+                },
+                {
+                    "name": "",
+                    "category": "1",
+                    "value": ""
+                },
+                {
+                    "name": "",
+                    "category": "1",
+                    "value": ""
+                },
+                {
+                    "name": "",
+                    "category": "1",
+                    "value": ""
+                },
+                {
+                    "name": "",
+                    "category": "1",
+                    "value": ""
                 }
             ]
         }
