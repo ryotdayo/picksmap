@@ -79,12 +79,12 @@
                     "value": "23.1"
                 },
                 {
-                    "name": "Super Mario Land",
+                    "name": "$NVDA",
                     "category": "GB",
                     "value": "18.14"
                 },
                 {
-                    "name": "Pokémon Yellow: Special Pikachu Edition",
+                    "name": "$--",
                     "category": "GB",
                     "value": "14.64"
                 }
@@ -108,13 +108,13 @@
                     "value": "23.21"
                 },
                 {
-                    "name": "Brain Age: Train Your Brain in Minutes a Day",
-                    "category": "$NFLX",
+                    "name": "$NFLX",
+                    "category": "DS",
                     "value": "20.15"
                 },
                 {
-                    "name": "Pokemon Diamond/Pokemon Pearl",
-                    "category": "$FXI",
+                    "name": "$FXI",
+                    "category": "DS",
                     "value": "18.25"
                 }
             ]
