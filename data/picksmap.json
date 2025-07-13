@@ -40,24 +40,29 @@
         {
             "name": "NES",
             "children": [{
-                    "name": "$--",
+                    "name": "$VRSN",
                     "category": "NES",
-                    "value": "40.24"
+                    "value": "0.00"
                 },
                 {
-                    "name": "$--",
+                    "name": "$TQQQ",
                     "category": "NES",
-                    "value": "28.31"
+                    "value": "2.86"
                 },
                 {
-                    "name": "$--",
+                    "name": "$CME",
                     "category": "NES",
-                    "value": "17.28"
+                    "value": "0.00"
                 },
                 {
-                    "name": "$--",
+                    "name": "$PLTR",
                     "category": "NES",
-                    "value": "7.46"
+                    "value": "0.95"
+                },
+                {
+                    "name": "$QUBT",
+                    "category": "NES",
+                    "value": "8.10"
                 }
             ]
         },
