@@ -197,7 +197,83 @@ gradient11.append('stop')
 
 gradient11.append('stop')
   .attr('offset', '100%')
-  .attr('stop-color', '#a21b37'); // 
+  .attr('stop-color', '#529637'); // 
+
+    //grad-12 GLD(28)
+ const gradient12 = defs.append('linearGradient')
+  .attr('id', 'grad-12')
+  .attr('x1', '0%')
+  .attr('y1', '0%')
+  .attr('x2', '100%')
+  .attr('y2', '100%');
+
+gradient12.append('stop')
+  .attr('offset', '0%')
+  .attr('stop-color', '#529637'); 
+
+gradient12.append('stop')
+  .attr('offset', '50%')
+  .attr('stop-color', '#4285f4'); 
+
+gradient12.append('stop')
+  .attr('offset', '100%')
+  .attr('stop-color', '#c681b2'); 
+
+    //grad-13 TQQQ(29)
+ const gradient13 = defs.append('linearGradient')
+  .attr('id', 'grad-13')
+  .attr('x1', '0%')
+  .attr('y1', '0%')
+  .attr('x2', '100%')
+  .attr('y2', '100%');
+
+gradient13.append('stop')
+  .attr('offset', '0%')
+  .attr('stop-color', '#4c9c65'); 
+
+gradient13.append('stop')
+  .attr('offset', '50%')
+  .attr('stop-color', '#48818b'); 
+
+gradient13.append('stop')
+  .attr('offset', '100%')
+  .attr('stop-color', '#cceb66'); 
+
+   //grad-14 TSLL(30)
+ const gradient14 = defs.append('linearGradient')
+  .attr('id', 'grad-14')
+  .attr('x1', '0%')
+  .attr('y1', '0%')
+  .attr('x2', '100%')
+  .attr('y2', '100%');
+
+gradient14.append('stop')
+  .attr('offset', '0%')
+  .attr('stop-color', '#ed523c'); 
+
+gradient14.append('stop')
+  .attr('offset', '50%')
+  .attr('stop-color', '#529637'); 
+
+gradient14.append('stop')
+  .attr('offset', '100%')
+  .attr('stop-color', '#4c9c65'); 
+
+    //grad-15 VWO (31)
+const gradient15 = defs.append('linearGradient')
+  .attr('id', 'grad-15')
+  .attr('x1', '0%')
+  .attr('y1', '0%')
+  .attr('x2', '100%')
+  .attr('y2', '100%');
+
+gradient15.append('stop')
+  .attr('offset', '0%')
+  .attr('stop-color', '#f6c344');
+
+gradient15.append('stop')
+  .attr('offset', '100%')
+  .attr('stop-color', '#a09330'); // 
 
 
   
@@ -341,6 +417,18 @@ gradient11.append('stop')
                    break;
                 case '27':
                   color = 'url(#grad-11)'; 
+                   break;
+                case '28':
+                  color = 'url(#grad-12)'; 
+                   break;
+                case '29':
+                  color = 'url(#grad-13)'; 
+                   break;
+                case '30':
+                  color = 'url(#grad-14)'; 
+                   break;
+                case '31':
+                  color = 'url(#grad-15)'; 
               }
               return color;
             })
