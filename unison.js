@@ -466,7 +466,6 @@ const paddingTop = 10;  // 上に10px（最初の行の高さ）
      IONQ: '26px',
      RKLB: '26px',
      CLS: '26px',
-  RTX: '11px',
      FXI: '11px',
      GLD: '11px',
      VEA: '11px',
