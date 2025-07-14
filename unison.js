@@ -7,6 +7,30 @@ const treeMap = d3.select('#tree-map')
                     .append('svg')
                     .attr('width', width)
                     .attr('height', height);    
+
+
+  // ✅ グラデーション定義をここに追加
+const defs = treeMap.append('defs');
+
+const gradient6 = defs.append('linearGradient')
+  .attr('id', 'grad-6')
+  .attr('x1', '0%')
+  .attr('y1', '0%')
+  .attr('x2', '100%')
+  .attr('y2', '100%');
+
+gradient6.append('stop')
+  .attr('offset', '0%')
+  .attr('stop-color', '#577DE5');
+
+gradient6.append('stop')
+  .attr('offset', '100%')
+  .attr('stop-color', '#A2C2FF'); // 薄い青系
+
+
+
+
+  
                     
   const tooltip = d3.select('body')
                     .append('div')
