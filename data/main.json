@@ -271,7 +271,7 @@
                 },
                 {
                     "name": "GLD",
-                    "category": "4",
+                    "category": "28",
                     "value": "0.202"
                 },
                 {
@@ -291,12 +291,12 @@
                 },
                 {
                     "name": "TQQQ",
-                    "category": "11",
+                    "category": "29",
                     "value": "8.578"
                 },
                 {
                     "name": "TSLL",
-                    "category": "1",
+                    "category": "30",
                     "value": "1.668"
                 },
                 {
@@ -311,7 +311,7 @@
                 },
                 {
                     "name": "VWO",
-                    "category": "2",
+                    "category": "31",
                     "value": "0.753"
                 },
                 {
