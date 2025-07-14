@@ -13,34 +13,34 @@ const treeMap = d3.select('#tree-map')
 const defs = treeMap.append('defs');
 
   //grad-1
-const gradient6 = defs.append('linearGradient')
-  .attr('id', 'grad-6')
+const gradient1 = defs.append('linearGradient')
+  .attr('id', 'grad-1')
   .attr('x1', '0%')
   .attr('y1', '0%')
   .attr('x2', '100%')
   .attr('y2', '100%');
 
-gradient6.append('stop')
+gradient1.append('stop')
   .attr('offset', '0%')
   .attr('stop-color', '#4285f4');
 
-gradient6.append('stop')
+gradient1.append('stop')
   .attr('offset', '100%')
   .attr('stop-color', '#c681b2'); // 
 
    //grad-2
-const gradient6 = defs.append('linearGradient')
-  .attr('id', 'grad-6')
+const gradient2 = defs.append('linearGradient')
+  .attr('id', 'grad-2')
   .attr('x1', '0%')
   .attr('y1', '0%')
   .attr('x2', '100%')
   .attr('y2', '100%');
 
-gradient6.append('stop')
+gradient2.append('stop')
   .attr('offset', '0%')
   .attr('stop-color', '#21bfbc');
 
-gradient6.append('stop')
+gradient2.append('stop')
   .attr('offset', '100%')
   .attr('stop-color', '#bbbcde'); // 
 
@@ -157,8 +157,8 @@ gradient6.append('stop')
                 case '16':
                   color = '#21bfbc';
                   break;
-                case 'PSP':
-                  color = '#C879CB';
+                case '17':
+                  color = 'url(#grad-1)'; 
                   break;
                 case 'XOne':
                   color = '#C061E8';    
