@@ -80,8 +80,71 @@ gradient4.append('stop')
   .attr('offset', '100%')
   .attr('stop-color', '#4285f4'); 
 
+    //grad-5
+const gradient5 = defs.append('linearGradient')
+  .attr('id', 'grad-5')
+  .attr('x1', '0%')
+  .attr('y1', '0%')
+  .attr('x2', '100%')
+  .attr('y2', '100%');
+
+gradient5.append('stop')
+  .attr('offset', '0%')
+  .attr('stop-color', '#9f4d06');
+
+gradient5.append('stop')
+  .attr('offset', '100%')
+  .attr('stop-color', '#56447d'); // 
 
 
+      //grad-6
+const gradient6 = defs.append('linearGradient')
+  .attr('id', 'grad-6')
+  .attr('x1', '0%')
+  .attr('y1', '0%')
+  .attr('x2', '100%')
+  .attr('y2', '100%');
+
+gradient6.append('stop')
+  .attr('offset', '0%')
+  .attr('stop-color', '#56447d');
+
+gradient6.append('stop')
+  .attr('offset', '100%')
+  .attr('stop-color', '#d2d0ba'); // 
+
+  
+      //grad-7
+const gradient7 = defs.append('linearGradient')
+  .attr('id', 'grad-7')
+  .attr('x1', '0%')
+  .attr('y1', '0%')
+  .attr('x2', '100%')
+  .attr('y2', '100%');
+
+gradient7.append('stop')
+  .attr('offset', '0%')
+  .attr('stop-color', '#9f4d06');
+
+gradient7.append('stop')
+  .attr('offset', '100%')
+  .attr('stop-color', '#d2d0ba'); // 
+
+    //grad-8
+const gradient8 = defs.append('linearGradient')
+  .attr('id', 'grad-8')
+  .attr('x1', '0%')
+  .attr('y1', '0%')
+  .attr('x2', '100%')
+  .attr('y2', '100%');
+
+gradient8.append('stop')
+  .attr('offset', '0%')
+  .attr('stop-color', '#9f4d06');
+
+gradient8.append('stop')
+  .attr('offset', '100%')
+  .attr('stop-color', '#d2d0ba'); // 
 
 
 
@@ -202,7 +265,19 @@ gradient4.append('stop')
                   color = 'url(#grad-2)'; 
                      break;
                 case '19':
+                  color = 'url(#grad-3)'; 
+                   break;
+                case '20':
                   color = 'url(#grad-4)'; 
+                   break;
+                case '21':
+                  color = 'url(#grad-5)'; 
+                   break;
+                case '22':
+                  color = 'url(#grad-6)'; 
+                   break;
+                case '23':
+                  color = 'url(#grad-7)'; 
               }
               return color;
             })
