@@ -23,12 +23,12 @@
                 {
                     "name": "ADBE",
                     "category": "14",
-                    "value": "0"
+                    "value": ""
                 },
                 {
                     "name": "AJG",
                     "category": "2",
-                    "value": "0"
+                    "value": ""
                 },
                 {
                     "name": "AVGO",
@@ -43,7 +43,7 @@
                 {
                     "name": "CGC",
                     "category": "1",
-                    "value": "0"
+                    "value": ""
                 },
                 {
                     "name": "CLS",
@@ -68,7 +68,7 @@
                 {
                     "name": "DUOL",
                     "category": "1",
-                    "value": "0"
+                    "value": ""
                 },
                 {
                     "name": "GEV",
@@ -93,7 +93,7 @@
                 {
                     "name": "LLY",
                     "category": "8",
-                    "value": "0"
+                    "value": ""
                 },
                 {
                     "name": "META",
@@ -198,7 +198,7 @@
                 {
                     "name": "T",
                     "category": "1",
-                    "value": "0.000"
+                    "value": ""
                 },
                 {
                     "name": "TSLA",
@@ -208,17 +208,17 @@
                 {
                     "name": "UNH",
                     "category": "1",
-                    "value": "0"
+                    "value": ""
                 },
                 {
                     "name": "VRSN",
                     "category": "1",
-                    "value": "0"
+                    "value": ""
                 },
                 {
                     "name": "WM",
                     "category": "1",
-                    "value": "0"
+                    "value": ""
                 }
             ]
         },
@@ -267,7 +267,7 @@
                 {
                     "name": "SPXS",
                     "category": "2",
-                    "value": "0.0000"
+                    "value": ""
                 },
                 {
                     "name": "TQQQ",
