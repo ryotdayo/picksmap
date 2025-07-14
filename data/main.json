@@ -17,7 +17,7 @@
             "children": [{
                     "name": "AAPL",
                     "category": "1",
-                    "value": "0.254%"
+                    "value": "0.254"
                 },
                 {
                     "name": "ADBE",
@@ -32,12 +32,12 @@
                 {
                     "name": "AVGO",
                     "category": "2",
-                    "value": "2.374%"
+                    "value": "2.374"
                 },
                 {
                     "name": "CAT",
                     "category": "1",
-                    "value": "1.737%"
+                    "value": "1.737"
                 },
                 {
                     "name": "CGC",
@@ -47,7 +47,7 @@
                 {
                     "name": "CLS",
                     "category": "1",
-                    "value": "4.721%"
+                    "value": "4.721"
                 },
                 {
                     "name": "CME",
@@ -57,12 +57,12 @@
                 {
                     "name": "CRWD",
                     "category": "1",
-                    "value": "0.012"
+                    "value": "1.249"
                 },
                 {
                     "name": "DASH",
                     "category": "1",
-                    "value": "0.012"
+                    "value": "1.174"
                 },
                 {
                     "name": "DUOL",
@@ -72,22 +72,22 @@
                 {
                     "name": "GEV",
                     "category": "2",
-                    "value": "0.024"
+                    "value": "2.407"
                 },
                 {
                     "name": "HIMS",
                     "category": "1",
-                    "value": "0.009"
+                    "value": "0.851"
                 },
                 {
                     "name": "HOOD",
                     "category": "1",
-                    "value": "0.069"
+                    "value": "6.945"
                 },
                 {
                     "name": "IONQ",
                     "category": "1",
-                    "value": "0.050"
+                    "value": "4.971"
                 },
                 {
                     "name": "LLY",
@@ -97,17 +97,17 @@
                 {
                     "name": "META",
                     "category": "4",
-                    "value": "0.014"
+                    "value": "1.370"
                 },
                 {
                     "name": "MSTR",
                     "category": "1",
-                    "value": "0.017"
+                    "value": "1.715"
                 },
                 {
                     "name": "NFLX",
                     "category": "1",
-                    "value": "0.022"
+                    "value": "2.249"
                 },
                 {
                     "name": "NOC",
