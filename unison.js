@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
 
-  const width = 100%;
-  const height = 70vh;
+ // const width = 100%;
+//  const height = 70vh;
 
  // const treeMap = d3.select('#tree-map')
             //        .append('svg')
