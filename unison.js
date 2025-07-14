@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         .sort((a, b) => b.value - a.value);
 
     const createTreeMap = d3.treemap()
-                            .size([100%, 70vh]);
+                            .size([1000, 600]);
 
 
 
