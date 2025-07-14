@@ -44,6 +44,44 @@ gradient2.append('stop')
   .attr('offset', '100%')
   .attr('stop-color', '#bbbcde'); // 
 
+    //grad-3
+const gradient3 = defs.append('linearGradient')
+  .attr('id', 'grad-3')
+  .attr('x1', '0%')
+  .attr('y1', '0%')
+  .attr('x2', '100%')
+  .attr('y2', '100%');
+
+gradient3.append('stop')
+  .attr('offset', '0%')
+  .attr('stop-color', '#ed523c');
+
+gradient3.append('stop')
+  .attr('offset', '100%')
+  .attr('stop-color', '#d2d0ba'); // 
+
+  //grad-4
+ const gradient4 = defs.append('linearGradient')
+  .attr('id', 'grad-4')
+  .attr('x1', '0%')
+  .attr('y1', '0%')
+  .attr('x2', '100%')
+  .attr('y2', '100%');
+
+gradient4.append('stop')
+  .attr('offset', '0%')
+  .attr('stop-color', '#ed523c'); 
+
+gradient4.append('stop')
+  .attr('offset', '50%')
+  .attr('stop-color', '#c681b2'); 
+
+gradient4.append('stop')
+  .attr('offset', '100%')
+  .attr('stop-color', '#4285f4'); 
+
+
+
 
 
 
@@ -162,6 +200,9 @@ gradient2.append('stop')
                   break;
                 case '18':
                   color = 'url(#grad-2)'; 
+                     break;
+                case '19':
+                  color = 'url(#grad-4)'; 
               }
               return color;
             })
