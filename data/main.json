@@ -17,17 +17,17 @@
              "value": "1",
             "children": [{
                     "name": "AAPL",
-                    "category": "1",
+                    "category": "9",
                     "value": "0.254"
                 },
                 {
                     "name": "ADBE",
-                    "category": "1",
+                    "category": "14",
                     "value": "0"
                 },
                 {
                     "name": "AJG",
-                    "category": "1",
+                    "category": "2",
                     "value": "0"
                 },
                 {
@@ -37,7 +37,7 @@
                 },
                 {
                     "name": "CAT",
-                    "category": "1",
+                    "category": "3",
                     "value": "1.737"
                 },
                 {
@@ -47,7 +47,7 @@
                 },
                 {
                     "name": "CLS",
-                    "category": "1",
+                    "category": "8",
                     "value": "4.721"
                 },
                 {
@@ -62,7 +62,7 @@
                 },
                 {
                     "name": "DASH",
-                    "category": "1",
+                    "category": "14",
                     "value": "1.174"
                 },
                 {
@@ -92,7 +92,7 @@
                 },
                 {
                     "name": "LLY",
-                    "category": "1",
+                    "category": "8",
                     "value": "0"
                 },
                 {
@@ -112,7 +112,7 @@
                 },
                 {
                     "name": "NOC",
-                    "category": "1",
+                    "category": "8",
                     "value": "0.273"
                 },
                 {
@@ -132,7 +132,7 @@
                 },
                 {
                     "name": "PINS",
-                    "category": "1",
+                    "category": "14",
                     "value": "2.240"
                 },
                 {
@@ -142,12 +142,12 @@
                 },
                 {
                     "name": "QBTS",
-                    "category": "1",
+                    "category": "6",
                     "value": "5.905"
                 },
                 {
                     "name": "QSI",
-                    "category": "1",
+                    "category": "14",
                     "value": "2.607"
                 },
                 {
@@ -162,7 +162,7 @@
                 },
                 {
                     "name": "RGTI",
-                    "category": "1",
+                    "category": "12",
                     "value": "1.112"
                 },
                 {
@@ -177,12 +177,12 @@
                 },
                 {
                     "name": "RKT",
-                    "category": "1",
+                    "category": "14",
                     "value": "0.719"
                 },
                 {
                     "name": "RTX",
-                    "category": "1",
+                    "category": "8",
                     "value": "0.832"
                 },
                 {
