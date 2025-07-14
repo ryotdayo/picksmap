@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         .sum((d) => d.value)
                         .sort((a, b) => b.value - a.value);
 
-    const createTreeMap = d3.treemap()
+  const createTreeMap = d3.treemap()
                             .size([1000, 600]);
 
 
