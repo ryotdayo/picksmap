@@ -12,6 +12,7 @@ const treeMap = d3.select('#tree-map')
   // ✅ グラデーション定義をここに追加
 const defs = treeMap.append('defs');
 
+  //grad-1
 const gradient6 = defs.append('linearGradient')
   .attr('id', 'grad-6')
   .attr('x1', '0%')
@@ -21,11 +22,28 @@ const gradient6 = defs.append('linearGradient')
 
 gradient6.append('stop')
   .attr('offset', '0%')
-  .attr('stop-color', '#577DE5');
+  .attr('stop-color', '#4285f4');
 
 gradient6.append('stop')
   .attr('offset', '100%')
-  .attr('stop-color', '#A2C2FF'); // 薄い青系
+  .attr('stop-color', '#c681b2'); // 
+
+   //grad-2
+const gradient6 = defs.append('linearGradient')
+  .attr('id', 'grad-6')
+  .attr('x1', '0%')
+  .attr('y1', '0%')
+  .attr('x2', '100%')
+  .attr('y2', '100%');
+
+gradient6.append('stop')
+  .attr('offset', '0%')
+  .attr('stop-color', '#21bfbc');
+
+gradient6.append('stop')
+  .attr('offset', '100%')
+  .attr('stop-color', '#bbbcde'); // 
+
 
 
 
