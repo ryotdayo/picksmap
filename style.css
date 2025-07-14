@@ -11,12 +11,13 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: gainsboro;
+  background: ##7f6000;
   padding: 10px;
 }
 
 h1 {
   font-family: 'Poppins', sans-serif;
+  color:#fff;
 }
 
 h2 {
