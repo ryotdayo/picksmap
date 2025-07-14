@@ -157,7 +157,7 @@ const gradient9 = defs.append('linearGradient')
 
 gradient9.append('stop')
   .attr('offset', '0%')
-  .attr('stop-color', '#4c9c65');
+  .attr('stop-color', '#091c91');
 
 gradient9.append('stop')
   .attr('offset', '100%')
@@ -229,7 +229,7 @@ gradient12.append('stop')
 
 gradient13.append('stop')
   .attr('offset', '0%')
-  .attr('stop-color', '#4c9c65'); 
+  .attr('stop-color', '#091c91'); 
 
 gradient13.append('stop')
   .attr('offset', '50%')
@@ -257,7 +257,7 @@ gradient14.append('stop')
 
 gradient14.append('stop')
   .attr('offset', '100%')
-  .attr('stop-color', '#4c9c65'); 
+  .attr('stop-color', '#091c91'); 
 
     //grad-15 VWO (31)
 const gradient15 = defs.append('linearGradient')
@@ -541,7 +541,7 @@ const paddingTop = 10;  // 上に10px（最初の行の高さ）
               color = '#bbbcde';
               break;
             case '11':
-              color = '#4c9c65';
+              color = '#091c91';
               break;
             case '12':
               color = '#d2d0ba';
