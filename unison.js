@@ -73,16 +73,16 @@ document.addEventListener('DOMContentLoaded', () => {
                   color = '#bb5730';
                   break;
                 case '2':
+                  color = '#5c7886';
+                  break;
+                case '3':
                   color = '#9f934b';
                   break;
-                case 'X360':
-                  color = '#ebe5e5';
+                case '4':
+                  color = '#8aa0ac';
                   break;
-                case 'GB':
-                  color = '#9186B0';
-                  break;
-                case 'PS3':
-                  color = '#7481CB';
+                case '5':
+                  color = '#cdbc66';
                   break;
                 case 'NES':
                   color = '#577DE5';
