@@ -14,6 +14,8 @@
         },
         {
             "name": "kobetu",
+             "category": "11",
+             "value": "0.254"
             "children": [{
                     "name": "AAPL",
                     "category": "1",
