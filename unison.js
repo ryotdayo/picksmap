@@ -137,6 +137,14 @@ const treeMap = d3.select('#tree-map')
 const paddingTop = 10;  // 上に10px（最初の行の高さ）
 
 
+
+    
+   const fontSizes = {
+  OKLO: '26px',
+  RTX: '8px',
+  AAPL: '20px',
+  // 必要に応じて追加
+};
     
     section.append('text')
             .selectAll('tspan')
@@ -147,12 +155,17 @@ const paddingTop = 10;  // 上に10px（最初の行の高さ）
             .attr('x', 8)
          .attr('y', (d, i) => 23 + i * 11)
          //  .style('font-size', 15 + 'px')
-       .style('font-size', (d) => {
-    if (d === 'OKLO') return '26px';  // ← ここで条件分岐
-    else return '15px';
-  })
+      // .style('font-size', (d) => {
+  //  if (d === 'OKLO') return '26px';  // ← ここで条件分岐
+   // else return '15px';
+ // })
+      .style('font-size', (d) => fontSizes[d] || '15px')
           .style('fill', 'white')
             .style('font-weight', 'bold');  
+  
+ 
+
+
 
 
 
