@@ -16,6 +16,8 @@ body {
   justify-content: center;
   align-items: center;
   background: #f5eede;
+   background-image: url(img/map.png);
+  background-size:cover;
 
   padding: 10px;
 }
