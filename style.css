@@ -13,7 +13,7 @@ body {
   align-items: center;
   /*background: #7f6000;*/
   background-image: url('img/map.png');
-  background-size: 100% 100%;
+  background-size: cover;
   padding: 10px;
 }
 
