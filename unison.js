@@ -144,11 +144,11 @@ const paddingTop = 10;  // 上に10px（最初の行の高さ）
             .enter()
             .append('tspan')
             .text((d) => d)
-            .attr('x', 3)
+            .attr('x', 8)
          .attr('y', (d, i) => 23 + i * 11)
          //  .style('font-size', 15 + 'px')
        .style('font-size', (d) => {
-    if (d === 'OKLO') return '20px';  // ← ここで条件分岐
+    if (d === 'OKLO') return '26px';  // ← ここで条件分岐
     else return '15px';
   })
           .style('fill', 'white')
