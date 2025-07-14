@@ -407,7 +407,7 @@ gradient15.append('stop')
                   color = 'url(#grad-7)'; 
                     break;
                 case '24':
-                  color = 'url(#grad-8)'; 
+                  color = 'url(#grad-7color)'; 
                     break;
                 case '25':
                   color = 'url(#grad-9)'; 
