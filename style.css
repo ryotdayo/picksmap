@@ -14,6 +14,7 @@ body {
   /*background: #7f6000;*/
   background-image: url('img/map.jpg');
   background-size: 100%;
+  background-repeat: none;
   padding: 10px;
 }
 
