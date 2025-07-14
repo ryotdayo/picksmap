@@ -160,8 +160,8 @@ gradient2.append('stop')
                 case '17':
                   color = 'url(#grad-1)'; 
                   break;
-                case 'XOne':
-                  color = '#C061E8';    
+                case '18':
+                  color = 'url(#grad-2)'; 
               }
               return color;
             })
