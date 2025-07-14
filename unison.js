@@ -3,10 +3,10 @@ document.addEventListener('DOMContentLoaded', () => {
   const width = 100%;
   const height = 70vh;
 
-  const treeMap = d3.select('#tree-map')
-                    .append('svg')
-                    .attr('width', width)
-                    .attr('height', height);    
+ // const treeMap = d3.select('#tree-map')
+            //        .append('svg')
+               //     .attr('width', width)
+               //     .attr('height', height);    
                     
   const tooltip = d3.select('body')
                     .append('div')
@@ -23,17 +23,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 //
-    const container = document.getElementById('tree-map');
-const width = container.clientWidth;
-const height = window.innerHeight * 0.7; // 70% of viewport height
-
-const treeMap = d3.select('#tree-map')
+   const treeMap = d3.select('#tree-map')
   .append('svg')
-  .attr('width', width)
-  .attr('height', height);
-
-
-
+  .attr('viewBox', `0 0 800 600`) // 仮の基準サイズ
+  .attr('preserveAspectRatio', 'xMidYMid meet')
+  .style('width', '100%')        // ← CSSで100%
+  .style('height', '70vh');      // ← CSSで70vh
 
     
 
