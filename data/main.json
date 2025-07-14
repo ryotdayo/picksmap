@@ -195,30 +195,11 @@
                     "category": "23",
                     "value": "0.822"
                 },
-                {
-                    "name": "T",
-                    "category": "1",
-                    "value": ""
-                },
+                
                 {
                     "name": "TSLA",
                     "category": "26",
                     "value": "1.956"
-                },
-                {
-                    "name": "UNH",
-                    "category": "1",
-                    "value": ""
-                },
-                {
-                    "name": "VRSN",
-                    "category": "1",
-                    "value": ""
-                },
-                {
-                    "name": "WM",
-                    "category": "1",
-                    "value": ""
                 }
             ]
         },
@@ -241,12 +222,12 @@
                 },
                 {
                     "name": "EPI",
-                    "category": "2",
+                    "category": "5",
                     "value": "0.106"
                 },
                 {
                     "name": "FXI",
-                    "category": "2",
+                    "category": "1",
                     "value": "0.313"
                 },
                 {
@@ -265,11 +246,6 @@
                     "value": "7.121"
                 },
                 {
-                    "name": "SPXS",
-                    "category": "2",
-                    "value": ""
-                },
-                {
                     "name": "TQQQ",
                     "category": "29",
                     "value": "8.578"
@@ -281,12 +257,12 @@
                 },
                 {
                     "name": "VDE",
-                    "category": "2",
+                    "category": "3",
                     "value": "0.693"
                 },
                 {
                     "name": "VEA",
-                    "category": "2",
+                    "category": "3",
                     "value": "0.367"
                 },
                 {
