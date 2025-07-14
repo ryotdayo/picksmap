@@ -3,13 +3,10 @@ document.addEventListener('DOMContentLoaded', () => {
   const width = 1000;
   const height = 600;
 
-  const treeMap = d3.select('#tree-map')
-                  .append('svg')
-                   .attr('width', width)
-                   .attr('height', height);    
-.style('width', '100%')        // ← CSSで100%
-.style('height', '70vh');      // ← CSSで70vh
-
+const treeMap = d3.select('#tree-map')
+                    .append('svg')
+                    .attr('width', width)
+                    .attr('height', height);    
                     
   const tooltip = d3.select('body')
                     .append('div')
