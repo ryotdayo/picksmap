@@ -107,7 +107,7 @@
                 },
                 {
                     "name": "NFLX",
-                    "category": "19",
+                    "category": "20",
                     "value": "2.249"
                 },
                 {
@@ -117,12 +117,12 @@
                 },
                 {
                     "name": "NVDA",
-                    "category": "1",
+                    "category": "21",
                     "value": "5.907"
                 },
                 {
                     "name": "OKLO",
-                    "category": "12",
+                    "category": "22",
                     "value": "15.236"
                 },
                 {
@@ -192,7 +192,7 @@
                 },
                 {
                     "name": "SPOT",
-                    "category": "11",
+                    "category": "23",
                     "value": "0.822"
                 },
                 {
