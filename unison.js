@@ -460,8 +460,12 @@ const paddingTop = 10;  // 上に10px（最初の行の高さ）
      SOXL: '26px',
      NVDL: '26px',
      SMCI: '26px',
-  RTX: '8px',
-  AAPL: '20px',
+  RTX: '11px',
+     FXI: '11px',
+     GLD: '11px',
+     VEA: '11px',
+     EEM: '11px',
+  AAPL: '13px',
   // 必要に応じて追加
 };
     
