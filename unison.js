@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
 
   const width = 1000;
-  const height = 600;
+  const height = 1000;
 
 const treeMap = d3.select('#tree-map')
                     .append('svg')
@@ -289,7 +289,7 @@ gradient15.append('stop')
                         .sort((a, b) => b.value - a.value);
 
   const createTreeMap = d3.treemap()
-                            .size([1000, 600]);
+                            .size([1000, 1000]);
 
 
 
