@@ -208,37 +208,17 @@
                 {
                     "name": "UNH",
                     "category": "1",
-                    "value": ""
+                    "value": "0"
                 },
                 {
                     "name": "VRSN",
                     "category": "1",
-                    "value": ""
+                    "value": "0"
                 },
                 {
                     "name": "WM",
                     "category": "1",
-                    "value": ""
-                },
-                {
-                    "name": "",
-                    "category": "1",
-                    "value": ""
-                },
-                {
-                    "name": "",
-                    "category": "1",
-                    "value": ""
-                },
-                {
-                    "name": "",
-                    "category": "1",
-                    "value": ""
-                },
-                {
-                    "name": "",
-                    "category": "1",
-                    "value": ""
+                    "value": "0"
                 }
             ]
         },
