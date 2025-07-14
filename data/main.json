@@ -17,7 +17,7 @@
             "children": [{
                     "name": "AAPL",
                     "category": "1",
-                    "value": "0.03"
+                    "value": "0.254%"
                 },
                 {
                     "name": "ADBE",
@@ -32,12 +32,12 @@
                 {
                     "name": "AVGO",
                     "category": "2",
-                    "value": "0.024"
+                    "value": "2.374%"
                 },
                 {
                     "name": "CAT",
                     "category": "1",
-                    "value": "0.017"
+                    "value": "1.737%"
                 },
                 {
                     "name": "CGC",
@@ -47,7 +47,7 @@
                 {
                     "name": "CLS",
                     "category": "1",
-                    "value": "0.047"
+                    "value": "4.721%"
                 },
                 {
                     "name": "CME",
