@@ -13,6 +13,7 @@ body {
   align-items: center;
   /*background: #7f6000;*/
   background-image: url('img/craft-paper.jpg');
+  background-size: 100% 100%;
   padding: 10px;
 }
 
