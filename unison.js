@@ -91,7 +91,8 @@ gradient6.append('stop')
               let color;
               switch (category) {
                 case '1':
-                  color = '#bb5730';
+                  //color = '#bb5730';
+                  color = 'url(#grad-6)'; // ← これがグラデーションの指定
                   break;
                 case '2':
                   color = '#5c7886';
