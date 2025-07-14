@@ -122,10 +122,10 @@ gradient6.append('stop')
                   color = '#bbbcde';
                   break;
                 case '11':
-                  color = '#d2d0ba';
+                  color = '#4c9c65';
                   break;
                 case '12':
-                  color = '#66E861';
+                  color = '#d2d0ba';
                   break;
                 case '13':
                   color = '#c96598';
@@ -256,10 +256,10 @@ const paddingTop = 10;  // 上に10px（最初の行の高さ）
               color = '#bbbcde';
               break;
             case '11':
-              color = '#d2d0ba';
+              color = '#4c9c65';
               break;
             case '12':
-              color = '#c96598';
+              color = '#d2d0ba';
               break;
             case '13':
               color = '#E6DA57';
