@@ -145,7 +145,7 @@ const paddingTop = 10;  // 上に10px（最初の行の高さ）
             .append('tspan')
             .text((d) => d)
             .attr('x', 3)
-         .attr('y', (d, i) => 13 + i * 11)
+         .attr('y', (d, i) => 23 + i * 11)
          //  .style('font-size', 15 + 'px')
        .style('font-size', (d) => {
     if (d === 'OKLO') return '20px';  // ← ここで条件分岐
