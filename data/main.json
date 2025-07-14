@@ -20,16 +20,7 @@
                     "category": "9",
                     "value": "0.254"
                 },
-                {
-                    "name": "ADBE",
-                    "category": "14",
-                    "value": ""
-                },
-                {
-                    "name": "AJG",
-                    "category": "2",
-                    "value": ""
-                },
+
                 {
                     "name": "AVGO",
                     "category": "11",
@@ -40,21 +31,13 @@
                     "category": "3",
                     "value": "1.737"
                 },
-                {
-                    "name": "CGC",
-                    "category": "1",
-                    "value": ""
-                },
+               
                 {
                     "name": "CLS",
                     "category": "8",
                     "value": "4.721"
                 },
-                {
-                    "name": "CME",
-                    "category": "1",
-                    "value": "0"
-                },
+             
                 {
                     "name": "CRWD",
                     "category": "17",
@@ -65,11 +48,7 @@
                     "category": "14",
                     "value": "1.174"
                 },
-                {
-                    "name": "DUOL",
-                    "category": "1",
-                    "value": ""
-                },
+             
                 {
                     "name": "GEV",
                     "category": "2",
@@ -90,11 +69,7 @@
                     "category": "18",
                     "value": "4.971"
                 },
-                {
-                    "name": "LLY",
-                    "category": "8",
-                    "value": ""
-                },
+               
                 {
                     "name": "META",
                     "category": "4",
@@ -102,7 +77,7 @@
                 },
                 {
                     "name": "MSTR",
-                    "category": "2",
+                    "category": "19",
                     "value": "1.715"
                 },
                 {
@@ -127,7 +102,7 @@
                 },
                 {
                     "name": "PANW",
-                    "category": "1",
+                    "category": "3",
                     "value": "0.048"
                 },
                 {
