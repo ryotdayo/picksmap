@@ -240,6 +240,85 @@
                     "value": ""
                 }
             ]
+        },
+        {
+            "name": "NES",
+            "children": [{
+                    "name": "BKCH",
+                    "category": "2",
+                    "value": "0.033"
+                },
+                {
+                    "name": "$BOTZ",
+                    "category": "2",
+                    "value": "0.007"
+                },
+                {
+                    "name": "EEM",
+                    "category": "2",
+                    "value": "0.004"
+                },
+                {
+                    "name": "EPI",
+                    "category": "2",
+                    "value": "0.001"
+                },
+                {
+                    "name": "FXI",
+                    "category": "2",
+                    "value": "0.003"
+                },
+                {
+                    "name": "GLD",
+                    "category": "2",
+                    "value": "0.0020"
+                },
+                {
+                    "name": "NVDL",
+                    "category": "2",
+                    "value": "0.0669"
+                },
+                {
+                    "name": "SOXL",
+                    "category": "2",
+                    "value": "0.0712"
+                },
+                {
+                    "name": "SPXS",
+                    "category": "2",
+                    "value": "0.0000"
+                },
+                {
+                    "name": "TQQQ",
+                    "category": "2",
+                    "value": "0.0858"
+                },
+                {
+                    "name": "TSLL",
+                    "category": "2",
+                    "value": "0.0167"
+                },
+                {
+                    "name": "VDE",
+                    "category": "2",
+                    "value": "0.0069"
+                },
+                {
+                    "name": "VEA",
+                    "category": "2",
+                    "value": "0.0037"
+                },
+                {
+                    "name": "VWO",
+                    "category": "2",
+                    "value": "0.0075"
+                },
+                {
+                    "name": "YINN",
+                    "category": "2",
+                    "value": "0.0093"
+                }
+            ]
         }
     ]
 }
