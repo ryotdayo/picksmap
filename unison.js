@@ -91,32 +91,32 @@ gradient6.append('stop')
               let color;
               switch (category) {
                 case '1':
-                  //color = '#bb5730';
-                  color = 'url(#grad-6)'; // ← これがグラデーションの指定
+                  color = '#ed523c';
+                  //color = 'url(#grad-6)'; // ← これがグラデーションの指定
                   break;
                 case '2':
-                  color = '#5c7886';
+                  color = '#c681b2';
                   break;
                 case '3':
-                  color = '#9f934b';
+                  color = '#a09330';
                   break;
                 case '4':
-                  color = '#8aa0ac';
+                  color = '#529637';
                   break;
                 case '5':
-                  color = '#cdbc66';
+                  color = '#a21b37';
                   break;
                 case '6':
-                  color = '#577DE5';
+                  color = '#4285f4';
                   break;
                 case '7':
-                  color = '#fbcd78';
+                  color = '#9f4d06';
                   break;
                 case '8':
-                  color = '#bbbcde';
+                  color = '#48818b';
                   break;
                 case '9':
-                  color = '#B3915B';
+                  color = '#56447d';
                   break;
                 case '10':
                   color = '#bbbcde';
@@ -128,16 +128,16 @@ gradient6.append('stop')
                   color = '#d2d0ba';
                   break;
                 case '13':
-                  color = '#c96598';
+                  color = '#f6c344';
                   break;
                 case '14':
-                  color = '#DEC274';
+                  color = '#9e9f9f';
                   break;
                 case '15':
-                  color = '#7c8a4f';
+                  color = '#cceb66';
                   break;
                 case '16':
-                  color = '#bf8e21';
+                  color = '#21bfbc';
                   break;
                 case 'PSP':
                   color = '#C879CB';
@@ -226,31 +226,31 @@ const paddingTop = 10;  // 上に10px（最初の行の高さ）
           let color;
           switch (d) {
             case '1':
-              color = '#bb5730';
+              color = '#ed523c';
               break;
             case '2':
-              color = '#9f934b';
+              color = '#c681b2';
               break;
             case '3':
-              color = '#ebe5e5';
+              color = '#a09330';
               break;
             case '4':
-              color = '#9186B0';
+              color = '#a21b37';
               break;
             case '5':
-              color = '#7481CB';
+              color = '#a21b37';
               break;
             case '6':
-              color = '#577DE5';
+              color = '#4285f4';
               break;
             case '7':
-              color = '#fbcd78';
+              color = '#9f4d06';
               break;
             case '8':
-              color = '#bbbcde';
+              color = '#48818b';
               break;
             case '9':
-              color = '#B3915B';
+              color = '#56447d';
               break;
             case '10':
               color = '#bbbcde';
@@ -262,16 +262,16 @@ const paddingTop = 10;  // 上に10px（最初の行の高さ）
               color = '#d2d0ba';
               break;
             case '13':
-              color = '#E6DA57';
+              color = '#f6c344';
               break;
             case '14':
-              color = '#7c8a4f';
+              color = '#9e9f9f';
               break;
             case '15':
-              color = '#bf8e21';
+              color = '#cceb66';
               break;
             case '16':
-              color = '#CF91AE';
+              color = '#21bfbc';
               break;
             case 'PSP':
               color = '#C879CB';
