@@ -438,6 +438,7 @@ gradient15.append('stop')
             .attr('width', (d) => d.x1 - d.x0)
             .attr('height', (d) => d.y1 - d.y0)
             .attr('stroke', 'gainsboro')
+             .attr('stroke-width', 3)       // ← ★ 線の太さ（ここを追加・調整）
             .on('mouseover', handleMouseover)
             .on('mouseout', handleMouseout);
 
