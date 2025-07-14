@@ -81,7 +81,7 @@
                 },
                 {
                     "name": "HOOD",
-                    "category": "1",
+                    "category": "7",
                     "value": "6.945"
                 },
                 {
@@ -167,12 +167,12 @@
                 {
                     "name": "RIOT",
                     "category": "1",
-                    "value": "0.034"
+                    "value": "3.360"
                 },
                 {
                     "name": "RKLB",
                     "category": "1",
-                    "value": "0.047"
+                    "value": "4.681"
                 },
                 {
                     "name": "RKT",
@@ -191,8 +191,8 @@
                 },
                 {
                     "name": "SPOT",
-                    "category": "1",
-                    "value": "0.008"
+                    "category": "11",
+                    "value": "0.822"
                 },
                 {
                     "name": "T",
@@ -202,7 +202,7 @@
                 {
                     "name": "TSLA",
                     "category": "1",
-                    "value": ""
+                    "value": "1.956"
                 },
                 {
                     "name": "UNH",
