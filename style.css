@@ -15,9 +15,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #f5eede;
-   background-image: url(img/map.png);
-  background-size:cover;
+  background: #faf2e7;
+   
 
   padding: 10px;
 }
