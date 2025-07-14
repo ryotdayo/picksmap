@@ -102,14 +102,14 @@ const treeMap = d3.select('#tree-map')
                 case '12':
                   color = '#66E861';
                   break;
-                case 'GBA':
+                case '13':
                   color = '#E6DA57';
                   break;
-                case 'XB':
+                case '14':
                   color = '#DEC274';
                   break;
-                case 'PC':
-                  color = '#D7AA91';
+                case '15':
+                  color = '#7c8a4f';
                   break;
                 case '2600':
                   color = '#CF91AE';
@@ -216,14 +216,14 @@ const paddingTop = 10;  // 上に10px（最初の行の高さ）
             case '11':
               color = '#e5e3d1';
               break;
-            case 'N64':
+            case '13':
               color = '#66E861';
               break;
-            case 'GBA':
+            case '14':
               color = '#E6DA57';
               break;
-            case 'XB':
-              color = '#DEC274';
+            case '15':
+              color = '#7c8a4f';
               break;
             case 'PC':
               color = '#D7AA91';
