@@ -453,6 +453,13 @@ const paddingTop = 10;  // 上に10px（最初の行の高さ）
     
    const fontSizes = {
   OKLO: '26px',
+     QUBT: '26px',
+     HOOD: '26px',
+     PLTR: '26px',
+     TQQQ: '26px',
+     SOXL: '26px',
+     NVDL: '26px',
+     SMCI: '26px',
   RTX: '8px',
   AAPL: '20px',
   // 必要に応じて追加
@@ -465,7 +472,7 @@ const paddingTop = 10;  // 上に10px（最初の行の高さ）
             .append('tspan')
             .text((d) => d)
             .attr('x', 8)
-         .attr('y', (d, i) => 23 + i * 11)
+         .attr('y', (d, i) => 33 + i * 11)
          //  .style('font-size', 15 + 'px')
       // .style('font-size', (d) => {
   //  if (d === 'OKLO') return '26px';  // ← ここで条件分岐
