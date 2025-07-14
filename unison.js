@@ -469,6 +469,7 @@ const paddingTop = 10;  // 上に10px（最初の行の高さ）
      FXI: '11px',
      GLD: '11px',
      VEA: '11px',
+      NOC: '10px',
      EEM: '11px',
   AAPL: '13px',
   // 必要に応じて追加
