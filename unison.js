@@ -315,9 +315,9 @@ gradient15.append('stop')
               .style('top', mouseY + 'px')
               .attr('data-value', (d) => dataVal);
       tooltip.html(
-        'Name: ' + dataName + '<br/>' +
-        'Platform: ' + dataCategory + '<br/>' +
-        'Value: ' + dataVal + ' Million'
+        'Stock: ' + dataName + '<br/>' +
+        'Color: ' + dataCategory + '<br/>' +
+        'Value: ' + dataVal + ' percent'
       )        
     }
 
