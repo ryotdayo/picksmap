@@ -137,7 +137,8 @@ gradient7.append('stop')
   .attr('x1', '0%')
   .attr('y1', '0%')
   .attr('x2', '100%')
-  .attr('y2', '0%'); // 横方向に流れるグラデーション
+  //.attr('y2', '0%'); // 横方向に流れるグラデーション
+  .attr('y2', '100%'); // ← 斜め方向（左上 → 右下）
 
 gradient8.append('stop').attr('offset', '0%').attr('stop-color', '#56447d'); // 
 gradient8.append('stop').attr('offset', '16.6%').attr('stop-color', '#9f4d06'); // 
