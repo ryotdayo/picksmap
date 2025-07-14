@@ -262,22 +262,22 @@
                 {
                     "name": "EPI",
                     "category": "2",
-                    "value": "0.001"
+                    "value": "0.106"
                 },
                 {
                     "name": "FXI",
                     "category": "2",
-                    "value": "0.003"
+                    "value": "0.313"
                 },
                 {
                     "name": "GLD",
                     "category": "4",
-                    "value": "0.0020"
+                    "value": "0.202"
                 },
                 {
                     "name": "NVDL",
                     "category": "4",
-                    "value": "0.0669"
+                    "value": "6.692"
                 },
                 {
                     "name": "SOXL",
@@ -302,22 +302,22 @@
                 {
                     "name": "VDE",
                     "category": "2",
-                    "value": "0.0069"
+                    "value": "0.693"
                 },
                 {
                     "name": "VEA",
                     "category": "2",
-                    "value": "0.0037"
+                    "value": "0.367"
                 },
                 {
                     "name": "VWO",
                     "category": "2",
-                    "value": "0.0075"
+                    "value": "0.753"
                 },
                 {
                     "name": "YINN",
                     "category": "5",
-                    "value": "0.0093"
+                    "value": "0.932"
                 }
             ]
         }
