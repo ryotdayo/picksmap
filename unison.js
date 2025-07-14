@@ -163,6 +163,42 @@ gradient9.append('stop')
   .attr('offset', '100%')
   .attr('stop-color', '#4285f4'); // 
 
+    //grad-10 TSLA(26)
+ const gradient10 = defs.append('linearGradient')
+  .attr('id', 'grad-10')
+  .attr('x1', '0%')
+  .attr('y1', '0%')
+  .attr('x2', '100%')
+  .attr('y2', '100%');
+
+gradient10.append('stop')
+  .attr('offset', '0%')
+  .attr('stop-color', '#21bfbc'); 
+
+gradient10.append('stop')
+  .attr('offset', '50%')
+  .attr('stop-color', '#9f4d06'); 
+
+gradient10.append('stop')
+  .attr('offset', '100%')
+  .attr('stop-color', '#56447d'); 
+
+    //grad-11 RBLX (27)
+const gradient11 = defs.append('linearGradient')
+  .attr('id', 'grad-11')
+  .attr('x1', '0%')
+  .attr('y1', '0%')
+  .attr('x2', '100%')
+  .attr('y2', '100%');
+
+gradient11.append('stop')
+  .attr('offset', '0%')
+  .attr('stop-color', '#f6c344');
+
+gradient11.append('stop')
+  .attr('offset', '100%')
+  .attr('stop-color', '#a21b37'); // 
+
 
   
                     
@@ -299,6 +335,12 @@ gradient9.append('stop')
                     break;
                 case '25':
                   color = 'url(#grad-9)'; 
+                   break;
+                case '26':
+                  color = 'url(#grad-10)'; 
+                   break;
+                case '27':
+                  color = 'url(#grad-11)'; 
               }
               return color;
             })
