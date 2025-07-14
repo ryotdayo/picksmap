@@ -27,7 +27,8 @@ const treeMap = d3.select('#tree-map')
 
     createTreeMap(hierarchy);
 
-    const gameTiles = hierarchy.leaves();
+    //const gameTiles = hierarchy.leaves();
+    const gameTiles = hierarchy.descendants(); // ← 全ノード含む
     // console.log(gameTiles); 
     let categories = gameTiles.map((nodes) => nodes.data.category);
     categories = categories.filter((category, index, self) => self.indexOf(category) === index); 
