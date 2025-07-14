@@ -81,25 +81,25 @@ const treeMap = d3.select('#tree-map')
                 case '5':
                   color = '#cdbc66';
                   break;
-                case 'NES':
+                case '6':
                   color = '#577DE5';
                   break;
-                case 'PS2':
+                case '7':
                   color = '#E65757';
                   break;
-                case '3DS':
+                case '8':
                   color = '#bbbcde';
                   break;
-                case 'PS4':
+                case '9':
                   color = '#B3915B';
                   break;
-                case 'SNES':
+                case '10':
                   color = '#99AE5D';
                   break;
-                case 'PS':
-                  color = '#80CB5F';
+                case '11':
+                  color = '#e5e3d1';
                   break;
-                case 'N64':
+                case '12':
                   color = '#66E861';
                   break;
                 case 'GBA':
@@ -189,32 +189,32 @@ const paddingTop = 10;  // 上に10px（最初の行の高さ）
             case '2':
               color = '#9f934b';
               break;
-            case 'X360':
+            case '3':
               color = '#ebe5e5';
               break;
-            case 'GB':
+            case '4':
               color = '#9186B0';
               break;
-            case 'PS3':
+            case '5':
               color = '#7481CB';
               break;
-            case 'NES':
+            case '6':
               color = '#577DE5';
               break;
-            case 'PS2':
+            case '7':
               color = '#E65757';
               break;
-            case '3DS':
+            case '8':
               color = '#bbbcde';
               break;
-            case 'PS4':
+            case '9':
               color = '#B3915B';
               break;
-            case 'SNES':
+            case '10':
               color = '#99AE5D';
               break;
-            case 'PS':
-              color = '#80CB5F';
+            case '11':
+              color = '#e5e3d1';
               break;
             case 'N64':
               color = '#66E861';
