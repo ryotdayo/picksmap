@@ -166,7 +166,7 @@
                 },
                 {
                     "name": "RIOT",
-                    "category": "1",
+                    "category": "13",
                     "value": "3.360"
                 },
                 {
@@ -246,17 +246,17 @@
             "children": [{
                     "name": "BKCH",
                     "category": "2",
-                    "value": "0.033"
+                    "value": "3.300"
                 },
                 {
                     "name": "$BOTZ",
                     "category": "2",
-                    "value": "0.007"
+                    "value": "0.662"
                 },
                 {
                     "name": "EEM",
                     "category": "5",
-                    "value": "0.004"
+                    "value": "0.395"
                 },
                 {
                     "name": "EPI",
