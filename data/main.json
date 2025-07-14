@@ -201,7 +201,7 @@
                 },
                 {
                     "name": "TSLA",
-                    "category": "1",
+                    "category": "16",
                     "value": "1.956"
                 },
                 {
@@ -245,12 +245,12 @@
             "name": "NES",
             "children": [{
                     "name": "BKCH",
-                    "category": "2",
+                    "category": "16",
                     "value": "3.300"
                 },
                 {
-                    "name": "$BOTZ",
-                    "category": "2",
+                    "name": "BOTZ",
+                    "category": "16",
                     "value": "0.662"
                 },
                 {
@@ -281,7 +281,7 @@
                 {
                     "name": "SOXL",
                     "category": "2",
-                    "value": "0.0712"
+                    "value": "7.121"
                 },
                 {
                     "name": "SPXS",
@@ -291,12 +291,12 @@
                 {
                     "name": "TQQQ",
                     "category": "2",
-                    "value": "0.0858"
+                    "value": "8.578"
                 },
                 {
                     "name": "TSLL",
                     "category": "1",
-                    "value": "0.0167"
+                    "value": "1.668"
                 },
                 {
                     "name": "VDE",
