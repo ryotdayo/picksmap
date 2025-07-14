@@ -97,7 +97,7 @@ const treeMap = d3.select('#tree-map')
                   color = '#99AE5D';
                   break;
                 case '11':
-                  color = '#e5e3d1';
+                  color = '#d2d0ba';
                   break;
                 case '12':
                   color = '#66E861';
@@ -214,7 +214,7 @@ const paddingTop = 10;  // 上に10px（最初の行の高さ）
               color = '#99AE5D';
               break;
             case '11':
-              color = '#e5e3d1';
+              color = '#d2d0ba';
               break;
             case '13':
               color = '#c96598';
