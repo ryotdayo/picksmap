@@ -80,7 +80,7 @@ gradient4.append('stop')
   .attr('offset', '100%')
   .attr('stop-color', '#4285f4'); 
 
-    //grad-5
+    //grad-5 NVDA
 const gradient5 = defs.append('linearGradient')
   .attr('id', 'grad-5')
   .attr('x1', '0%')
@@ -97,7 +97,7 @@ gradient5.append('stop')
   .attr('stop-color', '#56447d'); // 
 
 
-      //grad-6
+      //grad-6 OKLO
 const gradient6 = defs.append('linearGradient')
   .attr('id', 'grad-6')
   .attr('x1', '0%')
@@ -114,7 +114,7 @@ gradient6.append('stop')
   .attr('stop-color', '#d2d0ba'); // 
 
   
-      //grad-7
+      //grad-7 SPOT
 const gradient7 = defs.append('linearGradient')
   .attr('id', 'grad-7')
   .attr('x1', '0%')
@@ -130,23 +130,38 @@ gradient7.append('stop')
   .attr('offset', '100%')
   .attr('stop-color', '#d2d0ba'); // 
 
-    //grad-8
-const gradient8 = defs.append('linearGradient')
-  .attr('id', 'grad-8')
+
+  //grad-8 PLTR
+  const gradient8 = defs.append('linearGradient')
+  .attr('id', 'grad-7color')
+  .attr('x1', '0%')
+  .attr('y1', '0%')
+  .attr('x2', '100%')
+  .attr('y2', '0%'); // 横方向に流れるグラデーション
+
+gradient8.append('stop').attr('offset', '0%').attr('stop-color', '#56447d'); // 
+gradient8.append('stop').attr('offset', '16.6%').attr('stop-color', '#9f4d06'); // 
+gradient8.append('stop').attr('offset', '33.3%').attr('stop-color', '#bbbcde'); // 
+gradient8.append('stop').attr('offset', '50%').attr('stop-color', '#21bfbc'); // 
+gradient8.append('stop').attr('offset', '66.6%').attr('stop-color', '#cceb66'); // 
+gradient8.append('stop').attr('offset', '83.3%').attr('stop-color', '#f6c344'); // 
+gradient8.append('stop').attr('offset', '100%').attr('stop-color', '#d2d0ba'); // 
+
+  //grad-9 SMCI
+const gradient9 = defs.append('linearGradient')
+  .attr('id', 'grad-9')
   .attr('x1', '0%')
   .attr('y1', '0%')
   .attr('x2', '100%')
   .attr('y2', '100%');
 
-gradient8.append('stop')
+gradient9.append('stop')
   .attr('offset', '0%')
-  .attr('stop-color', '#9f4d06');
+  .attr('stop-color', '#4c9c65');
 
-gradient8.append('stop')
+gradient9.append('stop')
   .attr('offset', '100%')
-  .attr('stop-color', '#d2d0ba'); // 
-
-
+  .attr('stop-color', '#4285f4'); // 
 
 
   
@@ -278,6 +293,12 @@ gradient8.append('stop')
                    break;
                 case '23':
                   color = 'url(#grad-7)'; 
+                    break;
+                case '24':
+                  color = 'url(#grad-8)'; 
+                    break;
+                case '25':
+                  color = 'url(#grad-9)'; 
               }
               return color;
             })
