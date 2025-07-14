@@ -233,19 +233,19 @@ const paddingTop = 10;  // 上に10px（最初の行の高さ）
             case '11':
               color = '#d2d0ba';
               break;
-            case '13':
+            case '12':
               color = '#c96598';
               break;
-            case '14':
+            case '13':
               color = '#E6DA57';
               break;
-            case '15':
+            case '14':
               color = '#7c8a4f';
               break;
-            case '16':
+            case '15':
               color = '#bf8e21';
               break;
-            case '2600':
+            case '16':
               color = '#CF91AE';
               break;
             case 'PSP':
