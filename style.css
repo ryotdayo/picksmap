@@ -11,10 +11,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #7f6000;
-  background-image: url('img/map.png');
-  background-size: 100% 100%;
-  background-repeat: none;
+  background: #f5eede;
+
   padding: 10px;
 }
 
