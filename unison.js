@@ -339,7 +339,7 @@ gradient15.append('stop')
               switch (category) {
                 case '1':
                   color = '#ed523c';
-                  //color = 'url(#grad-6)'; // ← これがグラデーションの指定
+                
                   break;
                 case '2':
                   color = '#c681b2';
@@ -529,58 +529,58 @@ const paddingTop = 10;  // 上に10px（最初の行の高さ）
         .attr('fill', (d) => {
           let color;
           switch (d) {
-            case '1':
+            case '':
               color = '#ed523c';
               break;
-            case '2':
+            case '':
               color = '#c681b2';
               break;
-            case '3':
+            case '':
               color = '#a09330';
               break;
-            case '4':
+            case '':
               color = '#a21b37';
               break;
             case '5':
               color = '#a21b37';
               break;
-            case '6':
+            case '':
               color = '#4285f4';
               break;
-            case '7':
+            case '':
               color = '#9f4d06';
               break;
-            case '8':
+            case '':
               color = '#48818b';
               break;
-            case '9':
+            case '':
               color = '#56447d';
               break;
-            case '10':
+            case '':
               color = '#bbbcde';
               break;
-            case '11':
+            case '':
               color = '#091c91';
               break;
-            case '12':
+            case '':
               color = '#d2d0ba';
               break;
-            case '13':
+            case '':
               color = '#f6c344';
               break;
-            case '14':
+            case '':
               color = '#9e9f9f';
               break;
-            case '15':
+            case '':
               color = '#cceb66';
               break;
-            case '16':
+            case '':
               color = '#21bfbc';
               break;
-            case 'PSP':
+            case '':
               color = '#C879CB';
               break;
-            case 'XOne':
+            case '':
               color = '#C061E8';    
           }
           return color;
