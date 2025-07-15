@@ -445,8 +445,8 @@ gradient15.append('stop')
 
 
     //追加
-    const paddingLeft = 6;  // 左に6px
-const paddingTop = 10;  // 上に10px（最初の行の高さ）
+   // const paddingLeft = 6;  // 左に6px
+//const paddingTop = 10;  // 上に10px（最初の行の高さ）
 
 
 
