@@ -1,17 +1,6 @@
 {
     "name": "Picks Challenge Vol4 Tree Map",
-    "children": [{
-            "name": "-",
-            "children": [
-                
-                
-                {
-                "name": "-",
-                "category": "2600",
-                "value": "0"
-            }
-            ]
-        },
+    "children": [
         {
             "name": "kobetu",
              "value": "1",
