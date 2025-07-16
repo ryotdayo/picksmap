@@ -381,10 +381,10 @@ gradient15.append('stop')
                   color = '#9e9f9f';
                   break;
                 case '15':
-                  color = '#cceb66';
+                  color = '#bff6ff';
                   break;
                 case '16':
-                  color = '#21bfbc';
+                  color = '#f9bdf2';
                   break;
                 case '17':
                   color = 'url(#grad-1)'; 
