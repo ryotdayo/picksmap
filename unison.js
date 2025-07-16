@@ -338,11 +338,11 @@ gradient15.append('stop')
               let color;
               switch (category) {
                 case '1':
-                  color = '#ed523c';
+                  color = '#000000';
                 
                   break;
                 case '2':
-                  color = '#c681b2';
+                  color = '#ff7c7c';
                   break;
                 case '3':
                   color = '#a09330';
