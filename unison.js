@@ -511,7 +511,7 @@ gradient15.append('stop')
     const elementsPerRow = Math.floor(width / rectHSpacing);
 
     const legendItem = legend.selectAll('g')
-                        .data(categories)
+                       // .data(categories)
                         .enter()
                         .append('g')
                         .attr('transform', (d, i) => {
