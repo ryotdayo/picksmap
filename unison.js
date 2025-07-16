@@ -73,7 +73,7 @@ gradient4.append('stop')
   .attr('stop-color', '#ed523c'); 
 
 gradient4.append('stop')
-  .attr('offset', '50%')
+  .attr('offset', '40%')
   .attr('stop-color', '#c681b2'); 
 
 gradient4.append('stop')
