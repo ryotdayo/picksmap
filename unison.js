@@ -348,19 +348,19 @@ gradient15.append('stop')
                   color = '#a09330';
                   break;
                 case '4':
-                  color = '#b1f198';
+                  color = '#529637';
                   break;
                 case '5':
-                  color = '#fff677';
+                  color = '#a21b37';
                   break;
                 case '6':
-                  color = '#7cadff';
+                  color = '#4285f4';
                   break;
                 case '7':
                   color = '#9f4d06';
                   break;
                 case '8':
-                  color = '#fffac1';
+                  color = '#48818b';
                   break;
                 case '9':
                   color = '#56447d';
@@ -369,7 +369,7 @@ gradient15.append('stop')
                   color = '#bbbcde';
                   break;
                 case '11':
-                  color = '#79ffbe';
+                  color = '#091c91';
                   break;
                 case '12':
                   color = '#d2d0ba';
@@ -378,13 +378,13 @@ gradient15.append('stop')
                   color = '#f6c344';
                   break;
                 case '14':
-                  color = '#e6e6e6';
+                  color = '#9e9f9f';
                   break;
                 case '15':
-                  color = '#bff6ff';
+                  color = '#cceb66';
                   break;
                 case '16':
-                  color = '#f9bdf2';
+                  color = '#21bfbc';
                   break;
                 case '17':
                   color = 'url(#grad-1)'; 
