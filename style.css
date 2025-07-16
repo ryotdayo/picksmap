@@ -55,6 +55,10 @@ h2 {
   border-radius: 6px;
 }
 
+.legend-item{
+  display:none;
+}
+
 @media screen and (max-width: 1000px) {
   .container {
     transform: scale(0.9);
