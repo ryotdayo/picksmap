@@ -15,7 +15,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #faf2e7;
+  background: url(img/stripe.png);
    
 
   padding: 10px;
