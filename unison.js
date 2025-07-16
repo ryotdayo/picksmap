@@ -589,7 +589,7 @@ gradient15.append('stop')
     legendItem.append('text')
         .attr('x', rectSize + 6)
         .attr('y', rectSize - 6)
-        .style('font-size', 0 + 'px')
+        .style('font-size', 13 + 'px')
         .text((d) => d)
           .style('fill', 'white');  
   
