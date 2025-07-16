@@ -73,7 +73,7 @@ gradient4.append('stop')
   .attr('stop-color', '#ed523c'); 
 
 gradient4.append('stop')
-  .attr('offset', '40%')
+  .attr('offset', '50%')
   .attr('stop-color', '#c681b2'); 
 
 gradient4.append('stop')
@@ -511,7 +511,7 @@ gradient15.append('stop')
     const elementsPerRow = Math.floor(width / rectHSpacing);
 
     const legendItem = legend.selectAll('g')
-                       // .data(categories)
+                        .data(categories)
                         .enter()
                         .append('g')
                         .attr('transform', (d, i) => {
@@ -529,10 +529,10 @@ gradient15.append('stop')
         .attr('fill', (d) => {
           let color;
           switch (d) {
-            case '1':
+            case '':
               color = '#ed523c';
               break;
-            case '2':
+            case '':
               color = '#c681b2';
               break;
             case '':
@@ -589,10 +589,8 @@ gradient15.append('stop')
     legendItem.append('text')
         .attr('x', rectSize + 6)
         .attr('y', rectSize - 6)
-        .style('font-size', 13 + 'px')
-        .text((d) => d)
-          .style('fill', 'white');  
-  
+        .style('font-size', 12 + 'px')
+        .text((d) => d);            
         
   }
 
