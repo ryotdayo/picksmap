@@ -590,7 +590,9 @@ gradient15.append('stop')
         .attr('x', rectSize + 6)
         .attr('y', rectSize - 6)
         .style('font-size', 0 + 'px')
-        .text((d) => d);            
+        .text((d) => d)
+          .style('fill', 'white');  
+  
         
   }
 
