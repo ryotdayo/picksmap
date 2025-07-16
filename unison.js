@@ -529,10 +529,10 @@ gradient15.append('stop')
         .attr('fill', (d) => {
           let color;
           switch (d) {
-            case '':
+            case '1':
               color = '#ed523c';
               break;
-            case '':
+            case '2':
               color = '#c681b2';
               break;
             case '':
