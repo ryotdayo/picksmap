@@ -342,7 +342,7 @@ gradient15.append('stop')
                 
                   break;
                 case '2':
-                  color = '#c681b2';
+                  color = '#ccc';
                   break;
                 case '3':
                   color = '#a09330';
