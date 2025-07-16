@@ -338,11 +338,11 @@ gradient15.append('stop')
               let color;
               switch (category) {
                 case '1':
-                  color = '#000000';
+                  color = '#ed523c';
                 
                   break;
                 case '2':
-                  color = '#ff7c7c';
+                  color = '#c681b2';
                   break;
                 case '3':
                   color = '#a09330';
@@ -357,13 +357,13 @@ gradient15.append('stop')
                   color = '#4285f4';
                   break;
                 case '7':
-                  color = '#7bebdb';
+                  color = '#9f4d06';
                   break;
                 case '8':
                   color = '#48818b';
                   break;
                 case '9':
-                  color = '#f17146';
+                  color = '#56447d';
                   break;
                 case '10':
                   color = '#bbbcde';
@@ -522,7 +522,79 @@ gradient15.append('stop')
                           )
                         });
 
+    legendItem.append('rect')
+        .attr('width', rectSize)
+        .attr('height', rectSize)                              
+        .attr('class', 'legend-item')                  
+        .attr('fill', (d) => {
+          let color;
+          switch (d) {
+            case '':
+              color = '#ed523c';
+              break;
+            case '':
+              color = '#c681b2';
+              break;
+            case '':
+              color = '#a09330';
+              break;
+            case '':
+              color = '#a21b37';
+              break;
+            case '5':
+              color = '#a21b37';
+              break;
+            case '':
+              color = '#4285f4';
+              break;
+            case '':
+              color = '#9f4d06';
+              break;
+            case '':
+              color = '#48818b';
+              break;
+            case '':
+              color = '#56447d';
+              break;
+            case '':
+              color = '#bbbcde';
+              break;
+            case '':
+              color = '#091c91';
+              break;
+            case '':
+              color = '#d2d0ba';
+              break;
+            case '':
+              color = '#f6c344';
+              break;
+            case '':
+              color = '#9e9f9f';
+              break;
+            case '':
+              color = '#cceb66';
+              break;
+            case '':
+              color = '#21bfbc';
+              break;
+            case '':
+              color = '#C879CB';
+              break;
+            case '':
+              color = '#C061E8';    
+          }
+          return color;
+        });
 
+    legendItem.append('text')
+        .attr('x', rectSize + 6)
+        .attr('y', rectSize - 6)
+        .style('font-size', 0 + 'px')
+        .text((d) => d)
+          .style('fill', 'white');  
+  
+        
+  }
 
 
  const url = 'https://ryotdayo.github.io/picksmap/data/main.json';
