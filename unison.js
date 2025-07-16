@@ -360,7 +360,7 @@ gradient15.append('stop')
                   color = '#9f4d06';
                   break;
                 case '8':
-                  color = '#48818b';
+                  color = '#fffac1';
                   break;
                 case '9':
                   color = '#56447d';
@@ -378,7 +378,7 @@ gradient15.append('stop')
                   color = '#f6c344';
                   break;
                 case '14':
-                  color = '#9e9f9f';
+                  color = '#e6e6e6';
                   break;
                 case '15':
                   color = '#bff6ff';
